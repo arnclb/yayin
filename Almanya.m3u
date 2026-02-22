@@ -12,7 +12,7 @@ https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
 #EXTINF:-1 tvg-id="rtlzwei.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png",RTL ZWEI
 https://s33.hdtvizlecanli.com/live/rtl2.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
-#EXTINF:-1 tvg-id="sat1.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Neues_Sat._1_Logo_transparent.png/512px-Neues_Sat._1_Logo_transparent.png",SAT1
+#EXTINF:-1 tvg-id="sat1.de" tvg-logo="https://i.imgur.com/whlv5UA.png",SAT1
 http://23.88.66.93/Sat1/index.m3u8
 https://s33.hdtvizlecanli.com/live/sat1.m3u8
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-logo="https://i.imgur.com/zZOk3nh.png",ProSieben
