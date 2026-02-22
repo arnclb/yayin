@@ -1,15 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DasErste.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/512px-ARD_Dachmarke_2014.svg.png",ARD Das Erste
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15172/index.m3u8
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-dash/daserstehd.mpd
 #EXTINF:-1 tvg-id="ZDF.de@HD" tvg-logo="https://i.imgur.com/rtLb6m9.png",ZDF
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31441/index.m3u8
 https://s33.hdtvizlecanli.com/live/zdf.m3u8
 https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
 #EXTINF:-1 tvg-id="RTL.de@HD" tvg-logo="https://i.imgur.com/94K94k2.png",RTL
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6062/index.m3u8
 https://s33.hdtvizlecanli.com/live/rtl.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
 #EXTINF:-1 tvg-id="rtlzwei.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png",RTL ZWEI
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6065/index.m3u8
 https://s33.hdtvizlecanli.com/live/rtl2.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
 #EXTINF:-1 tvg-id="sat1.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Neues_Sat._1_Logo_transparent.png/512px-Neues_Sat._1_Logo_transparent.png",SAT1
@@ -20,17 +24,22 @@ https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6057/index.m3u8
 https://stream.livestreamde.com/live/pro7.m3u8
 #EXTINF:-1 tvg-id="VOX.de@SD" tvg-logo="https://i.imgur.com/QPcmfZb.png",VOX
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6061/index.m3u8
 https://s33.hdtvizlecanli.com/live/vox.m3u8
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
 #EXTINF:-1 tvg-id="kabeleins.de@SD" tvg-logo="https://i.imgur.com/6pulSHZ.png",Kabel Eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6067/index.m3u8
 https://s33.hdtvizlecanli.com/live/kabel1.m3u8
 #EXTINF:-1 tvg-id="3sat.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png",3sat
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31282/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
 #EXTINF:-1 tvg-id="arte.fr" tvg-logo="https://picserve.netplus.ch/channels/artehd.png",ARTE
 https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15171/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-dash/artehd.mpd
 #EXTINF:-1 tvg-id="orf1.at" tvg-logo="https://picserve.netplus.ch/channels/orf1.png",ORF1
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15177/index.m3u8
 https://s33.hdtvizlecanli.com/live/orf1.m3u8
 https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
 #EXTINF:-1 tvg-id="orf2.at" tvg-logo="https://picserve.netplus.ch/channels/orf2.png",ORF2
@@ -40,9 +49,11 @@ https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
 https://s33.hdtvizlecanli.com/live/servus.m3u8
 https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-dash/servustvhd.mpd
 #EXTINF:-1 tvg-id="Nitro.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/512px-Nitro_Logo.svg.png",Nitro
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6064/index.m3u8
 https://s33.hdtvizlecanli.com/live/nitro.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
 #EXTINF:-1 tvg-id="WELT.de@SD" tvg-logo="https://i.imgur.com/s4TZoxx.png",WELT
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7258/index.m3u8
 https://s33.hdtvizlecanli.com/live/n24.m3u8
 https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
 #EXTINF:-1 tvg-id="sport1.de" tvg-logo="https://picserve.netplus.ch/channels/sport1.png",Sport1
@@ -52,10 +63,12 @@ https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
 #EXTINF:-1 tvg-id="phoenix.de@HD" tvg-logo="https://i.imgur.com/T1532t9.png",Phoenix
 #https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-dash/phoenixhd.mpd
 #EXTINF:-1 tvg-id="ZDFneo.de@HD" tvg-logo="https://i.imgur.com/1JIIGgL.png",ZDFneo
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31443/index.m3u8
 https://s33.hdtvizlecanli.com/live/zdfneo.m3u8
 https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
 #EXTINF:-1 tvg-id="ZDFinfo.de@HD" tvg-logo="https://i.imgur.com/vtq1IWp.png",ZDFinfo
-#https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/17042/index.m3u8
+https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
 #EXTINF:-1 tvg-id="RTLSuper.de@SD" tvg-logo="https://i.imgur.com/KbdK8t9.png",RTL Super
 https://s33.hdtvizlecanli.com/live/superrtl.m3u8
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
@@ -64,9 +77,11 @@ https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
 #EXTINF:-1 tvg-id="tagesschau24.de@SD" tvg-logo="https://i.imgur.com/LH0Gctv.png",Tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-id="ntv.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/512px-N-tv_logo-september2017.svg.png",N-TV
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7259/index.m3u8
 https://s33.hdtvizlecanli.com/live/ntv.m3u8
 https://viamotionhsi.netplus.ch/live/eds/ntv/browser-dash/ntv.mpd
 #EXTINF:-1 tvg-id="ARDalpha.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/512px-ARD_alpha.svg.png",ARD Alpha
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/16058/index.m3u8
 https://mcdn.br.de/br/fs/ard_alpha/hls/int/master.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8
 #EXTINF:-1 tvg-id="BRFernsehen.de@Nord" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_Bayerischer_Rundfunk_2024.svg/512px-Logo_Bayerischer_Rundfunk_2024.svg.png",BR Fernsehen Nord
