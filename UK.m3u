@@ -35,6 +35,8 @@ https://viamotionhsi.netplus.ch/live/eds/quest/browser-dash/quest.mpd
 #http://92.118.251.84:8080/4seven/index.m3u8
 #EXTINF:-1 tvg-id="ITVQuiz.uk@SD" tvg-logo="https://i.imgur.com/BJUnmUl.png",ITV Quiz
 #http://92.118.251.84:8080/itvbe/index.m3u8
+#EXTINF:-1 tvg-id="film4.uk" tvg-logo="https://i.imgur.com/MTSgoGI.png",FILM4
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC News
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
