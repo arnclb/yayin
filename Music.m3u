@@ -33,10 +33,10 @@ https://livetv-app.mylifeisgood.net.ru/channels/bridgefreshya.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vibee.tv/wp-content/uploads/2023/08/bitmap.png",V2Beat TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jxuwGRi.png",XITE
-https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8?ads.did=%257BPSID%257D&ads.dnt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.tc_string=%257BTC_STRING%257D&ads.coppa=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N51Rp7E.png",XITE Hits
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N51Rp7E.png",XITE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/xiteaaaaa-xite-samsung-de/playlist.m3u8?ads.did=%257BPSID%257D&ads.dnt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.tc_string=%257BTC_STRING%257D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jxuwGRi.png",XITE Hits
+https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8?ads.did=%257BPSID%257D&ads.dnt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.tc_string=%257BTC_STRING%257D&ads.coppa=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/538_logo.png",Radio 538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wgxuYsQ.png",Fun Radio
