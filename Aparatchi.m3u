@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/55RpaF3.png",Iran International
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)
-https://i.imgur.com/4WYFViF.mp4
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
 #EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/oZhpMvK.png",BBC Persian
 https://gg.hls2.xyz/live/BBC-Farsi/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
