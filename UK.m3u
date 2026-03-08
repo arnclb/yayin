@@ -30,9 +30,13 @@ https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 #EXTINF:-1 tvg-id="questtv.com" tvg-logo="https://picserve.netplus.ch/channels/quest.png",QUEST
 https://viamotionhsi.netplus.ch/live/eds/quest/browser-dash/quest.mpd
 #EXTINF:-1 tvg-id="E4.uk@HD" tvg-logo="https://i.imgur.com/22MfjF4.png",E4
-#http://92.118.251.84:8080/e4/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
 #EXTINF:-1 tvg-id="4seven.uk@HD" tvg-logo="https://i.imgur.com/Fpaxyop.png",4seven
-#http://92.118.251.84:8080/4seven/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 #EXTINF:-1 tvg-id="ITVQuiz.uk@SD" tvg-logo="https://i.imgur.com/BJUnmUl.png",ITV Quiz
 #http://92.118.251.84:8080/itvbe/index.m3u8
 #EXTINF:-1 tvg-id="film4.uk" tvg-logo="https://i.imgur.com/MTSgoGI.png",FILM4
