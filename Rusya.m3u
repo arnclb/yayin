@@ -45,7 +45,7 @@ https://streaming.goodstream.icu/live/296.m3u8
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:-1 tvg-id="tolk" tvg-logo="https://iptvx.one/picons/tolk.png",Тolk
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer",Russia-24
+#EXTINF:-1 tvg-id="Russia24.ru@SD" tvg-logo="https://i.imgur.com/y2RRnLb.png" user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer",Russia-24
 https://streaming.goodstream.icu/live/30.m3u8
 #EXTINF:-1 tvg-id="Izvestia.ru@SD" tvg-logo="https://i.imgur.com/r5HzA6J.png",Izvestia
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
