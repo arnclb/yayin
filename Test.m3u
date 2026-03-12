@@ -28,6 +28,12 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2352.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",BBC Two Scotland
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2347.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",Music Choice | Classical Masterpieces 
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/647336.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",Music Choice | Easy Listening
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/647335.ts
+
+
 
 
 
