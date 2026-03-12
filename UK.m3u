@@ -58,10 +58,10 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/103905.ts
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2196.ts
 #EXTINF:-1 tvg-id="film4.uk" tvg-logo="https://i.imgur.com/MTSgoGI.png",FILM4
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vrcbnBv.png",S4C
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2214.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XiAKb4E.png",TG4
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2164.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vrcbnBv.png",S4C
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2214.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",BBC One Scotland
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2352.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",BBC Two Scotland
