@@ -25,22 +25,48 @@ https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
 #EXTINF:-1 tvg-id="Channel5.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png",Channel 5
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KiOnQnD.png",STV
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2168.ts
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2306.png",U&Dave
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2303.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r3pqSHl.png",U&Yesterday
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2144.ts
 #EXTINF:-1 tvg-id="More4.uk@HD" tvg-logo="https://i.imgur.com/cx5YcAU.png",More4
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 #EXTINF:-1 tvg-id="E4.uk@HD" tvg-logo="https://i.imgur.com/22MfjF4.png",E4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2292.ts
 #EXTINF:-1 tvg-id="4seven.uk@HD" tvg-logo="https://i.imgur.com/Fpaxyop.png",4seven
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/89380.ts
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2202.png",Challenge
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2316.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lY5sFgo.png",Really
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1194.png",Sky Nature
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/103905.ts
 #EXTINF:-1 tvg-id="ITVQuiz.uk@SD" tvg-logo="https://i.imgur.com/BJUnmUl.png",ITV Quiz
 #http://92.118.251.84:8080/itvbe/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Sky_One_-_Logo_2020_%28television_channel%29.png",Sky One
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2196.ts
 #EXTINF:-1 tvg-id="film4.uk" tvg-logo="https://i.imgur.com/MTSgoGI.png",FILM4
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
 #EXTINF:-1 tvg-id="questtv.com" tvg-logo="https://picserve.netplus.ch/channels/quest.png",QUEST
 https://viamotionhsi.netplus.ch/live/eds/quest/browser-dash/quest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vrcbnBv.png",S4C
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2214.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XiAKb4E.png",TG4
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2164.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",BBC One Scotland
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2352.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",BBC Two Scotland
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2347.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/36KDxLg.png",BBC Alba
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2355.ts
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC News
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
