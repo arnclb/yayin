@@ -47,6 +47,8 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/89380.ts
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2316.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lY5sFgo.png",Really
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="questtv.com" tvg-logo="https://picserve.netplus.ch/channels/quest.png",QUEST
+https://viamotionhsi.netplus.ch/live/eds/quest/browser-dash/quest.mpd
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1194.png",Sky Nature
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/103905.ts
 #EXTINF:-1 tvg-id="ITVQuiz.uk@SD" tvg-logo="https://i.imgur.com/BJUnmUl.png",ITV Quiz
@@ -55,8 +57,6 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/103905.ts
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2196.ts
 #EXTINF:-1 tvg-id="film4.uk" tvg-logo="https://i.imgur.com/MTSgoGI.png",FILM4
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
-#EXTINF:-1 tvg-id="questtv.com" tvg-logo="https://picserve.netplus.ch/channels/quest.png",QUEST
-https://viamotionhsi.netplus.ch/live/eds/quest/browser-dash/quest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vrcbnBv.png",S4C
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2214.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XiAKb4E.png",TG4
