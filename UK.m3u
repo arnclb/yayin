@@ -47,6 +47,7 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/89380.ts
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2316.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lY5sFgo.png",Really
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2224.ts
 #EXTINF:-1 tvg-id="questtv.com" tvg-logo="https://picserve.netplus.ch/channels/quest.png",QUEST
 https://viamotionhsi.netplus.ch/live/eds/quest/browser-dash/quest.mpd
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1194.png",Sky Nature
