@@ -19,7 +19,7 @@ http://69.30.245.50/live/cctv7.m3u8
 http://69.30.245.50/live/cctv8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxVPMJF.png",CCTV-8K
 http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/CCTV-9.svg/1280px-CCTV-9.svg.png",CCTV-9 - Belgesel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DuSpiQY.png",CCTV-9 - Belgesel
 http://69.30.245.50/live/cctv9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sSSO7UD.png",CCTV-10 - Bilim ve Eğitim
 http://69.30.245.50/live/cctv10.m3u8
@@ -71,7 +71,7 @@ http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/greaterbayarea.jpg",Guangdong TV 
 http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/thumb/2/22/Sichuan_TV.png/100px-Sichuan_TV.png",Sichuan TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vjagtqz.png",Sichuan TV
 http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IBW26kV.png",Henan TV
 http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
