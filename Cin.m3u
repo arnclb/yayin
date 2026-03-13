@@ -79,8 +79,6 @@ http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="hhttps://i.imgur.com/Z5Ppzbi.png",Hebei TV 
 http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z5Ppzbi.png",Hebei TV 4K
-https://event.pull.hebtv.com/live/live101.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dpre5Qs.png",Guangxi TV 
 http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CikxiyB.png",Jilin TV 
@@ -111,6 +109,13 @@ https://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWl
 http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AcGbrzc.png",Guangdong Sports
 http://119.123.77.106:8086/hls/42/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z5Ppzbi.png" group-title="4K",Hebei TV 4K
+https://event.pull.hebtv.com/live/live101.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vrYXOSh.png" group-title="4K",Suzhou TV 4K
+https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FwuJ9dN.png" group-title="Canlı", 中央电视塔东
 https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
