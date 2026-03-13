@@ -39,8 +39,6 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxusYlX.png",CCTV-4K
 https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1773421200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-f9f51775d7cfc583c15fd315acc6c71c&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z5Ppzbi.png",Hebei TV
-https://event.pull.hebtv.com/live/live101.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HNWS.png",Hunan TV
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/thumb/6/65/Zhejiang_Television.png/50px-Zhejiang_Television.png",Zhejiang TV 
@@ -81,6 +79,8 @@ http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="hhttps://i.imgur.com/Z5Ppzbi.png",Hebei TV 
 http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z5Ppzbi.png",Hebei TV 4K
+https://event.pull.hebtv.com/live/live101.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dpre5Qs.png",Guangxi TV 
 http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CikxiyB.png",Jilin TV 
