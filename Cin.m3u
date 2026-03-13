@@ -36,8 +36,80 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZzV6JQp.png",CCTV-16 - Olimpiyat
 http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jSQURxS.png",CCTV-17 - Tarım ve Kırsal
-http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z5Ppzbi.png",Hebei 4K
+http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxusYlX.png",CCTV-4K
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1773421200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-f9f51775d7cfc583c15fd315acc6c71c&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z5Ppzbi.png",Hebei TV
 https://event.pull.hebtv.com/live/live101.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HNWS.png",Hunan TV
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/thumb/6/65/Zhejiang_Television.png/50px-Zhejiang_Television.png",Zhejiang TV 
+http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/thumb/6/66/Jiangsu_Broadcasting_Corporation.png/60px-Jiangsu_Broadcasting_Corporation.png",Jiangsu TV
+http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WqM6xnF.png",Dragon TV
+http://107.150.60.122/live/dfwshd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDn101f.png",Anhui TV
+http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vsktAez.png",Beijing TV
+http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bg24eaH.png",Tianjin TV
+http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t3ICc4i.png",Shandong TV
+http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RrLthH3.png",Jiangxi TV
+http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AnZjWm4.png",Shenzhen TV
+http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CTRa9BJ.png",Hubei TV
+http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRfeNTd.png",Liaoning TV
+http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9fj1uba.png",Heilongjiang TV 
+http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nkcKCdr.png",Guizhou TV 
+http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/greaterbayarea.jpg",Guangdong TV 
+http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/thumb/2/22/Sichuan_TV.png/100px-Sichuan_TV.png",Sichuan TV
+http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IBW26kV.png",Henan TV
+http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t05JHEc.png",Chongqing TV
+http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P8AwiZq.png",Yunnan TV 
+http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="hhttps://i.imgur.com/Z5Ppzbi.png",Hebei TV 
+http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dpre5Qs.png",Guangxi TV 
+http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CikxiyB.png",Jilin TV 
+http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DUfZN2p.png",Shaanxi TV
+http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UfKJBWW.png",Shanxi TV 
+http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R4DWvBa.png",Nei Monggol Chinese TV
+http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nyuxo8S.png",Qinghai TV
+http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j6kY8nh.png",Hainan TV 
+http://111.56.90.5/000000000000/5000000004000006211/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dANSiug.png",Gansu TV 
+http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6sOHLq8.png",CETV-1
+http://111.56.90.5/000000000000/5000000002000002652/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZD8XPmw.png",CETV-2
+http://111.56.90.5/000000000000/5000000011000031201/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u80SRzi.png",Sansha TV
+http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UKKsnhD.png",Yanbian TV
+https://srs.iyb983.cn/video/CYS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uX2Xp59.png",Golden Eagle Documentary
+https://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWUzMDA3YzVmOWQzZTgyNzVlOTVjODRmMTU1YWI5NzQ5JnVpZD0mdXVpZD00ZTQ0NWJhNjE3MDU3OWYzZGU5ZTViZTE4ODQ2NGFkYi02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzczNDEzNzg3/JYJSMPP360.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VLaQYn4.png",Sincan TV
+http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AcGbrzc.png",Guangdong Sports
+http://119.123.77.106:8086/hls/42/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_China.png/1280px-Flag_of_China.png",China Live
 https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
