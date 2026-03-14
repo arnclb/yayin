@@ -37,8 +37,6 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jSQURxS.png",CCTV-17 - Tarım ve Kırsal
 http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fxusYlX.png",CCTV-4K
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1773421200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-f9f51775d7cfc583c15fd315acc6c71c&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSgY3CD.png",China Travel
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HNWS.png",Hunan TV
@@ -112,7 +110,8 @@ http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AcGbrzc.png",Guangdong Sports
 http://119.123.77.106:8086/hls/42/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HNWS.png",Hunan TV 4K
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z5Ppzbi.png" group-title="4K",Hebei TV 4K
 https://event.pull.hebtv.com/live/live101.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vrYXOSh.png" group-title="4K",Suzhou TV 4K
