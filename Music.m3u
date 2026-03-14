@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dQJQv1X.png",Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Trace_UK_Logo.png",Trace UK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MyKL8eq.png",Trace UK
 https://jmp2.uk/stvp-GBBD19000026B
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
@@ -27,15 +27,15 @@ https://livetv-app.mylifeisgood.net.ru/channels/bridgehitstvya.m3u8
 https://livetv-app.mylifeisgood.net.ru/channels/bridgedeluxetvya.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJTQq81.png",Bridge Classic
 https://livetv-app.mylifeisgood.net.ru/channels/bridgeclassictvya.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/512px-Radio_m2o_-_Logo_2019.svg.png",m2o TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/70phlSP.png",m2o TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.vibee.tv/wp-content/uploads/2023/08/bitmap.png",V2Beat TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S4b4kE1.png",V2Beat TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxuwGRi.png",XITE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/xiteaaaaa-xite-samsung-de/playlist.m3u8?ads.did=%257BPSID%257D&ads.dnt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.tc_string=%257BTC_STRING%257D
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N51Rp7E.png",XITE Hits
 https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8?ads.did=%257BPSID%257D&ads.dnt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.tc_string=%257BTC_STRING%257D&ads.coppa=0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/538_logo.png",Radio 538
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VCvM9Gd.png",Radio 538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wgxuYsQ.png",Fun Radio
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
@@ -51,15 +51,15 @@ http://88.212.7.14/live/test_360_tunebox_medium_atk/playlist.m3u8
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YV27Chs.png",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_main.png",Totalmusic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mXUusgs.png",Totalmusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png",Totalmusic Dance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BhhH70G.png",Totalmusic Dance
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png",Totalmusic Concerts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NY1j8TQ.png",Totalmusic Concerts
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png",Totalmusic 2000s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/98LxoLZ.png",Totalmusic 2000s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png",Totalmusic 80s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FQPn8N6.png",Totalmusic 80s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUY2KvX.png",Virgin Radio TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -80,11 +80,11 @@ https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
 https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rbJrmPw.png",Sol Música
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/512px-%C3%93%C4%8Dko_logo_2012.png",Ocko
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DIOHX3l.png",Ocko
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/%C3%93%C4%8Dko_Expres_logo.png",Ocko Expres
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5rtth6J.png",Ocko Expres
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/%C3%93%C4%8Dko_Star_logo.png",Ocko Star
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yOoPiAa.png",Ocko Star
 https://dash2.antik.sk/live/test_ocko_star/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YdyFJrl.png",1Mus 
 http://hz1.teleport.cc/HLS/HD.m3u8
@@ -92,7 +92,7 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MHuwct2.png",Bridge Rock
 https://livetv-app.mylifeisgood.net.ru/channels/bridgefreshya.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/radio-capital-tivu-it.png",Radio Capital TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PcRruuC.png",Radio Capital TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b1728000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RxeRlar.png",RADIO FRECCIA TV
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/chunklist.m3u8
@@ -106,7 +106,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/slwbux7.png",Number 1 Aşk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b5/Power_TV_logosu.png",Power TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bkff4F1.png",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QpPteBO.png",Power Dance
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
@@ -118,7 +118,7 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a5nW3HU.png",PowerTürk Taptaze
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/mezzo.png",Mezzo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jXfqSel.png",Mezzo
 https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-dash/mezzo.mpd
 
 #EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/nh1k5RC.png",Stingray Classica
@@ -129,17 +129,17 @@ https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.
 https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 #EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/IRyFTWq.png",Qello Concerts by Stingray
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png",Stingray DJAZZ
+#EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/wu4atsT.png",Stingray DJAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/UcprEcq.png",Stingray Holidayscapes
 https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 #EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/882kd90.png",Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png",Stingray Alternative
+#EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/l1EbIAu.png",Stingray Alternative
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/FBgu8yB.png",Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png",Stingray Easy Listening
+#EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/l1EbIAu.png",Stingray Easy Listening
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/wiasHUR.png",Stingray Exitos del Momento
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
@@ -149,44 +149,44 @@ https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/Tq3I0po.png",Stingray Nothin' But 90s
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png",Greatest Hits
+#EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/l1EbIAu.png",Stingray Greatest Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/ErFzYwn.png",Stingray Hip-Hop/R&B
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/lgpIwId.png",Stingray Hit List
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/PZhxyIT.png",Stingray Hot Country 
+#EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/l1EbIAu.png",Stingray Hot Country 
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/9TLTLS3.png",Stingray Karaoke
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/H2ugC9L.png",Stingray Pop Adult
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png",Stingray Romance Latino
+#EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/l1EbIAu.png",Stingray Romance Latino
 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/h1DsOzH.png",Stingray Smooth Jazz
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/dU1KC3f.png",Stingray Soul Storm
+#EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/l1EbIAu.png",Stingray Soul Storm
 https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/ywAN923.png",Stingray The Spa
+#EXTINF:-1 group-title="Stingray & MC Ambiance" tvg-logo="https://i.imgur.com/ywAN923.png",Stingray The Spa
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/mMbntB5.png",Stingray Today's K-Pop
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/960px-Music_Choice_logo.png",Music Choice | Light Classical
+#EXTINF:-1 group-title="Stingray & MC Ambiance" tvg-logo="https://i.imgur.com/A5nBrce.png",Music Choice | Light Classical
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/647323.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/960px-Music_Choice_logo.png",Music Choice | Easy Listening
+#EXTINF:-1 group-title="Stingray & MC Ambiance" tvg-logo="https://i.imgur.com/A5nBrce.png",Music Choice | Easy Listening
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/647335.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/960px-Music_Choice_logo.png",Music Choice | Country Rock
+#EXTINF:-1 group-title="Stingray & MC Ambiance" tvg-logo="https://i.imgur.com/A5nBrce.png",Music Choice | Country Rock
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/647321.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/960px-Music_Choice_logo.png",Music Choice | Blues
+#EXTINF:-1 group-title="Stingray & MC Ambiance" tvg-logo="https://i.imgur.com/A5nBrce.png",Music Choice | Blues
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/647328.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/960px-Music_Choice_logo.png",Music Choice | Singers & Swing
+#EXTINF:-1 group-title="Stingray & MC Ambiance" tvg-logo="https://i.imgur.com/A5nBrce.png",Music Choice | Singers & Swing
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/647329.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/960px-Music_Choice_logo.png",Music Choice | Sounds of The Seasons
+#EXTINF:-1 group-title="Stingray & MC Ambiance" tvg-logo="https://i.imgur.com/A5nBrce.png",Music Choice | Sounds of The Seasons
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/647337.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/960px-Music_Choice_logo.png",Music Choice | Jazz
+#EXTINF:-1 group-title="Stingray & MC Ambiance" tvg-logo="https://i.imgur.com/A5nBrce.png",Music Choice | Jazz
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/647327.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/960px-Music_Choice_logo.png",Music Choice | Smooth Jazz
+#EXTINF:-1 group-title="Stingray & MC Ambiance" tvg-logo="https://i.imgur.com/A5nBrce.png",Music Choice | Smooth Jazz
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/647326.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/960px-Music_Choice_logo.png",Music Choice | Classic Christmas 
+#EXTINF:-1 group-title="Stingray & MC Ambiance" tvg-logo="https://i.imgur.com/A5nBrce.png",Music Choice | Classic Christmas 
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/647336.ts
