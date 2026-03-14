@@ -27,14 +27,14 @@ https://livetv-app.mylifeisgood.net.ru/channels/bridgehitstvya.m3u8
 https://livetv-app.mylifeisgood.net.ru/channels/bridgedeluxetvya.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJTQq81.png",Bridge Classic
 https://livetv-app.mylifeisgood.net.ru/channels/bridgeclassictvya.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8lbnlB.png",Mooz Dance
-https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YdyFJrl.png",1Mus 
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-logo="https://i.imgur.com/70phlSP.png",m2o TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S4b4kE1.png",V2Beat TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8lbnlB.png",Mooz Dance
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vL0DNJ4.png",Littoral FM
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VCvM9Gd.png",Radio 538
