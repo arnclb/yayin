@@ -74,10 +74,12 @@ https://58f12ffd2447a.streamlock.net/KKMulti/livestream/chunklist.m3u8
 https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0DUprIW.png",Bel RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LzHQoUv.png",RTL Gold
-https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KRr7HTg.png",Hitradio O3
+https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O1c6wpt.png",RTL Today Radio
 https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LzHQoUv.png",RTL Gold
+https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rbJrmPw.png",Sol Música
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DIOHX3l.png",Ocko
