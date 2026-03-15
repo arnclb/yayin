@@ -124,6 +124,8 @@ https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tu
 http://88.212.7.14/live/test_rebel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jXfqSel.png",Mezzo
 https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-dash/mezzo.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rJ6wXmk.png",Klara
+https://live-radio.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/live-audio_track_0_0_dut=128000-video_track=2100000.m3u8
 
 #EXTINF:-1 group-title="Stingray & MC Ambiance" tvg-logo="https://i.imgur.com/nh1k5RC.png",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
