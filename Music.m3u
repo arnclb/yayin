@@ -22,7 +22,7 @@ https://livetv-app.mylifeisgood.net.ru/channels/bridgetvya.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIW9oR4.png",Bridge Hits
 https://livetv-app.mylifeisgood.net.ru/channels/bridgehitstvya.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EazL8w7.png",Bridge Deluxe
-https://livetv-app.mylifeisgood.net.ru/channels/bridgedeluxetvya.m3u8
+#https://livetv-app.mylifeisgood.net.ru/channels/bridgedeluxetvya.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mXUusgs.png",Totalmusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BhhH70G.png",Totalmusic Dance
