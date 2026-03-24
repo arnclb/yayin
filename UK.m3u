@@ -34,11 +34,6 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2303.ts
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2144.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/puBkpGj.png",U&W
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2145.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pi7so2l.png", 5USA
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/89023.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PI11s9s.png", 5STAR
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88922.ts
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2372.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cx5YcAU.png",More4
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/22MfjF4.png",E4
@@ -51,6 +46,11 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2292.ts
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/89380.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pi7so2l.png",5USA
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/89023.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PI11s9s.png",5STAR
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88922.ts
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2372.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cYAPPoF.png",Challenge
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2316.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lY5sFgo.png",Really
