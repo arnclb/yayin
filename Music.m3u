@@ -21,8 +21,6 @@ http://88.212.7.14/live/mb_sexy/index.m3u8
 https://livetv-app.mylifeisgood.net.ru/channels/bridgetvya.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIW9oR4.png",Bridge Hits
 https://livetv-app.mylifeisgood.net.ru/channels/bridgehitstvya.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EazL8w7.png",Bridge Deluxe
-#https://livetv-app.mylifeisgood.net.ru/channels/bridgedeluxetvya.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mXUusgs.png",Totalmusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BhhH70G.png",Totalmusic Dance
@@ -101,10 +99,10 @@ https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YV27Chs.png",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EazL8w7.png",Bridge Deluxe
+https://livetv-app.mylifeisgood.net.ru/channels/bridgedeluxetvya.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0RzUswR.png",Power Love
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rbJrmPw.png",Sol Música
-https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G3ld5cc.png",BB BLACK!
 https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DIOHX3l.png",Ocko
