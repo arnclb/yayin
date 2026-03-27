@@ -89,7 +89,7 @@ http://158.101.222.193:88/georgia_play.php?id=amediahit
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/start-world.png",Start World HD
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j2jDgH9.png”,Dom Kino
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j2jDgH9.png",Dom Kino
 #EXTVLCOPT:https://televizor24tochka.ru/tv/dom-kino.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://streaming.goodstream.icu/live/44.m3u8
