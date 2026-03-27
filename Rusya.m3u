@@ -27,7 +27,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://live1.1tvcrimea.ru/milletlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ob5PVNI.png",TV Tsentr
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JLAvq8O.png”,ТV-3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JLAvq8O.png",ТV-3
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/tv/tv-3.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/18.m3u8
