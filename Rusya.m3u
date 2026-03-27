@@ -7,15 +7,15 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/tv/otr.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/12.m3u8
-#EXTINF:-1 tvg-name=“REN” tvg-logo="https://i.imgur.com/0Tu5lte.png”,REN TV
+#EXTINF:-1 tvg-name=“REN” tvg-logo="https://i.imgur.com/0Tu5lte.png",REN TV
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/tv/ren-tv.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/14.m3u8
-#EXTINF:-1 tvg-name=“Pyatyy” tvg-logo="https://i.imgur.com/KPXMa3U.png”,Pyatyy Kanal
+#EXTINF:-1 tvg-name=“Pyatyy” tvg-logo="https://i.imgur.com/KPXMa3U.png",Pyatyy Kanal
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/tv/5-kanal.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/8.m3u8
-#EXTINF:-1 tvg-name=“Domashniy” tvg-logo="https://i.imgur.com/XVRwgom.png”,Domashniy
+#EXTINF:-1 tvg-name=“Domashniy” tvg-logo="https://i.imgur.com/XVRwgom.png",Domashniy
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/tv/domashnii.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/17.m3u8
