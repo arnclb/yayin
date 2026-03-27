@@ -66,9 +66,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W7ste2f.png",Unknown Russia
 https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZMKPAho.png",RTG TV
-#http://194.143.148.28:8080/RTG_HD/index.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/rtg_hd/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/istoria.png",Istoriya
-http://185.46.16.239:8000/Istoriya
+#http://185.46.16.239:8000/Istoriya
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4PAcpfM.png",Zvezda
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NNmjD9Z.png",Zvezda Plus
