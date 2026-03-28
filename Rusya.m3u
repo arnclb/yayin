@@ -99,10 +99,7 @@ https://streaming.goodstream.icu/live/232.m3u8
 https://livetv-app.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BtqrHmz.png",Muz-TV
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-tv.png",Match!
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/start-basket.png",Start Basket
-https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/avtoradio.png",Авторадио
 http://ic7.101.ru:8000/v3_1
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/dorozhnoe-radio.png",Дорожное Радио
