@@ -27,6 +27,16 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
 https://jmp2.uk/stvp-GBBD19000026B
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CUVAi4u.png",Trace Latina
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Ww7CsR.png",1HD Music Television
+http://176.118.197.101/1HD/index.m3u8
+http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YdyFJrl.png",1Mus 
+http://rtmp.one.by:1300
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NtkxkdD.png",FON Music
+https://livetv-app.mylifeisgood.net.ru/channels/tntmusicru.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BtqrHmz.png",Muz-TV
+https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mXUusgs.png",Totalmusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BhhH70G.png",Totalmusic Dance
@@ -59,16 +69,6 @@ https://livestream.siliconweb.com/live/kissfm/index.m3u8
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W3sGgWd.png",MAD TV
 https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/ocs4XeBHUbSGwy-X22mLnFXK7FaVuSnNPWzTfsMbLl4RZNdtBKB5HhobUyiXnFl_Ay3HgwdA_V5yLuHKtB-KDQ/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/tw_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Ww7CsR.png",1HD Music Television
-http://176.118.197.101/1HD/index.m3u8
-http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YdyFJrl.png",1Mus 
-http://rtmp.one.by:1300
-http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BtqrHmz.png",Muz-TV
-https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NtkxkdD.png",FON Music
-https://livetv-app.mylifeisgood.net.ru/channels/tntmusicru.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J09lNZK.png",Q-Music
 https://stream.qmusic.nl/qmusic/videohls.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Fyezng.png",360 TuneBox
