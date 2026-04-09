@@ -49,10 +49,13 @@ http://176.65.146.99:4001/play/a084/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
+http://176.65.146.99:4001/play/a082/index.m3u8
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/89380.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pi7so2l.png",5USA
+http://176.65.146.99:4003/play/a06b/index.m3u8
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/89023.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PI11s9s.png",5STAR
+http://176.65.146.99:4003/play/a06d/index.m3u8
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88922.ts
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2372.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cYAPPoF.png",Challenge
