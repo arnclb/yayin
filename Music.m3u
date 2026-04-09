@@ -24,6 +24,8 @@ https://ru02.plinkspile.su/5662/index.m3u8?token=KUSbsUbF6HxqFZ
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 https://livetv-app.mylifeisgood.net.ru/channels/bridgehitstvya.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png",MCM Top
+http://185.228.163.146:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png",MCM Top Russia
 http://ru01.plinkspile.su/5268/index.m3u8?token=KUSbsUbF6HxqFZ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mnJ76DU.png",Liberty Pop
 http://ru01.plinkspile.su/8057/index.m3u8?token=KUSbsUbF6HxqFZ
