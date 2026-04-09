@@ -11,10 +11,10 @@ http://88.212.7.14/live/mb_sexy/index.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qu7t15Y.png",Deluxe Dance
 https://jmp2.uk/stvp-DE23000015Y
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3h67hx.png",Deluxe Summer
+https://jmp2.uk/stvp-DE340000678
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s3h67hx.png",Deluxe Rap
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HJKNC5y.png",Deluxe Deutschpop
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/95d6544c-4164-11ec-9c7c-2cf753b8a203/0/master.m3u8?uid=%257BPSID%257D&optout=%257BTARGETOPT%257D&country=DE&vendor=samsung
+https://jmp2.uk/stvp-DEBD3800001QD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qYObfrG.png",Bridge
 https://ru02.plinkspile.su/5283/index.m3u8?token=KUSbsUbF6HxqFZ
 http://5.188.159.128:8070/bridgetv/index.m3u8
@@ -113,6 +113,8 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EazL8w7.png",Bridge Deluxe
 https://ru02.plinkspile.su/297/index.m3u8?token=KUSbsUbF6HxqFZ
 https://livetv-app.mylifeisgood.net.ru/channels/bridgedeluxetvya.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pgCA35z.png",Deluxe Lounge
+https://jmp2.uk/stvp-CHAJ0500413A
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0RzUswR.png",Power Love
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G3ld5cc.png",BB BLACK!
