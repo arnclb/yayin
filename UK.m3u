@@ -44,6 +44,7 @@ https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2292.ts
+http://176.65.146.99:4001/play/a084/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fpaxyop.png",4seven
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
