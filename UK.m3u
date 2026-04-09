@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mOUSWXc.png",BBC One
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
+http://176.65.146.99:4001/play/a08d/index.m3u8
 http://41.205.93.154/BBCONE/index.m3u8
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/542826.ts
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2359.ts
@@ -9,6 +10,7 @@ https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2358.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xwPekCF.png",ITV1
+http://176.65.146.99:4004/play/a082/index.m3u8
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/527497.ts
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19185/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2BpUK0W.png",ITV2
