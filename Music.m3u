@@ -27,6 +27,10 @@ https://livetv-app.mylifeisgood.net.ru/channels/bridgehitstvya.m3u8
 http://ru01.plinkspile.su/5268/index.m3u8?token=KUSbsUbF6HxqFZ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mnJ76DU.png",Liberty Pop
 http://ru01.plinkspile.su/8057/index.m3u8?token=KUSbsUbF6HxqFZ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mnJ76DU.png",Liberty Mix
+http://ru01.plinkspile.su/8051/index.m3u8?token=KUSbsUbF6HxqFZ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mnJ76DU.png",Liberty Hip-Hop
+http://ru01.plinkspile.su/8055/index.m3u8?token=KUSbsUbF6HxqFZ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyKL8eq.png",Trace UK
