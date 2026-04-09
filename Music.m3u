@@ -129,13 +129,8 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s3uaZS8.png",MTV JP
 https://nl.utako.moe/mtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EazL8w7.png",Bridge Deluxe
-https://ru02.plinkspile.su/297/index.m3u8?token=KUSbsUbF6HxqFZ
-https://livetv-app.mylifeisgood.net.ru/channels/bridgedeluxetvya.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pgCA35z.png",Deluxe Lounge
-https://jmp2.uk/stvp-CHAJ0500413A
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0RzUswR.png",Power Love
-https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FDqfAJs.png",Clubland UK
+http://176.65.146.99:4002/play/a06j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DIOHX3l.png",Ocko
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5rtth6J.png",Ocko Expres
@@ -148,6 +143,13 @@ https://dash2.antik.sk/live/test_ocko_star/playlist.m3u8
 http://88.212.7.14/live/test_ocko_black/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G3ld5cc.png",BB BLACK!
 https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EazL8w7.png",Bridge Deluxe
+https://ru02.plinkspile.su/297/index.m3u8?token=KUSbsUbF6HxqFZ
+https://livetv-app.mylifeisgood.net.ru/channels/bridgedeluxetvya.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pgCA35z.png",Deluxe Lounge
+https://jmp2.uk/stvp-CHAJ0500413A
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0RzUswR.png",Power Love
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJeKucp.png",Music Box Classic
 http://88.212.7.14/live/mb_classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJTQq81.png",Bridge Classic
@@ -182,6 +184,8 @@ https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tu
 http://88.212.7.14/live/test_rebel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jXfqSel.png",Mezzo
 https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-dash/mezzo.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Vq98lR.png",Sky Classica
+http://91.146.94.234:10001/play/a0ea
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rJ6wXmk.png",Klara
 https://live-radio.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/live-audio_track_0_0_dut=128000-video_track=2100000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fa8Vhu0.png",LRT Klasika
