@@ -23,6 +23,8 @@ https://livetv-app.mylifeisgood.net.ru/channels/bridgetvya.m3u8
 https://ru02.plinkspile.su/5662/index.m3u8?token=KUSbsUbF6HxqFZ
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 https://livetv-app.mylifeisgood.net.ru/channels/bridgehitstvya.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png",MCM Top
+http://ru01.plinkspile.su/5268/index.m3u8?token=KUSbsUbF6HxqFZ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyKL8eq.png",Trace UK
