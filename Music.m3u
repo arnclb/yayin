@@ -88,6 +88,8 @@ https://bss1.neterra.tv/thevoice/thevoice.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/xiteaaaaa-xite-samsung-de/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N51Rp7E.png",XITE Hits
 https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8?ads.did=%257BPSID%257D&ads.dnt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.tc_string=%257BTC_STRING%257D&ads.coppa=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3vbgWWT.png",Hip Hop TV
+https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_HipHopTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ja6c2YZ.png",KISS KISS
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUY2KvX.png",Virgin Radio TV
