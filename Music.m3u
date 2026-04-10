@@ -126,6 +126,8 @@ https://stream.rtl.lu/data/live/tele/rtlradiowebtv/1080p.m3u8
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rI1wo2l.png",4 Fun
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEWHe1B.png",4 Fun Dance
+http://213.91.179.28:8000/play/a0bi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YV27Chs.png",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s3uaZS8.png",MTV JP
