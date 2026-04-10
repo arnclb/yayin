@@ -29,12 +29,6 @@ http://145.239.5.177/320/mpegts
 http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png",MCM Top Russia
 http://ru01.plinkspile.su/5268/index.m3u8?token=KUSbsUbF6HxqFZ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mnJ76DU.png",Liberty Pop
-http://ru01.plinkspile.su/8057/index.m3u8?token=KUSbsUbF6HxqFZ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mnJ76DU.png",Liberty Mix
-http://ru01.plinkspile.su/8051/index.m3u8?token=KUSbsUbF6HxqFZ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mnJ76DU.png",Liberty Hip-Hop
-http://ru01.plinkspile.su/8055/index.m3u8?token=KUSbsUbF6HxqFZ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyKL8eq.png",Trace UK
@@ -45,6 +39,8 @@ http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YdyFJrl.png",1Mus 
 http://rtmp.one.by:1300
 http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mnJ76DU.png",Liberty Pop
+http://ru01.plinkspile.su/8057/index.m3u8?token=KUSbsUbF6HxqFZ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mXUusgs.png",Totalmusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BhhH70G.png",Totalmusic Dance
@@ -59,13 +55,13 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/02cDIBi.png",Number 1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZM4PSyq.png",Number 1 Dance
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fiB1VYc.png",Kiss TV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ccdwsWj.png",Company TV
 https://company.fluid.stream/CompanyTV/livestream/index.m3u8
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zNJlFMg.png",TVM 3
+http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KfFqYQi.png",Radio Ibiza TV
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JA1OPrz.png",RTL 102.5 Disco
