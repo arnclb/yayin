@@ -36,6 +36,8 @@ http://ru01.plinkspile.su/5268/index.m3u8?token=KUSbsUbF6HxqFZ
 https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyKL8eq.png",Trace UK
 https://jmp2.uk/stvp-GBBD19000026B
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N0eH0Cg.png",Eska TV
+http://91.246.72.88:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Ww7CsR.png",1HD Music Television
 http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
 http://176.118.197.101/1HD/index.m3u8
