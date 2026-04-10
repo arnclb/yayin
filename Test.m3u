@@ -9,3 +9,10 @@ http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/293860
 http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/266559
 #EXTINF:-1,Planeta 4K
 http://185.97.73.187:11000/play/planeta4k/index.m3u8
+
+#EXTINF:60,Mooz Dance RO 🇷🇴
+#EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozDance
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
+#EXTINF:61,Mooz Hits RO 🇷🇴
+#EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozHits
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
