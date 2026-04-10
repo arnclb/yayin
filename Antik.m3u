@@ -1,0 +1,229 @@
+#EXTM3U
+#EXTINF:-1, Spark TV
+https://dash3.antik.sk/live/test_upnetwork/playlist.m3u8
+#EXTINF:-1, RiK TV
+https://dash3.antik.sk/live/rik_atk/index.m3u8
+#EXTINF:-1, Turbo TV
+https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
+#EXTINF:-1, Tanečné súťaže
+https://dash2.antik.sk/live/tanecnesutaze/index.m3u8
+#EXTINF:-1, Šláger Premium
+https://dash3.antik.sk/live/test_slager_premium_hd/playlist.m3u8
+#EXTINF:-1, Šláger Muzika
+https://dash2.antik.sk/live/test_slagr_2_atk/playlist.m3u8
+#EXTINF:-1, Skvelé TV
+https://dash3.antik.sk/live/test_skvele_tv_fhd/playlist.m3u8
+#EXTINF:-1, Chilli TV
+https://dash2.antik.sk/live/chilli_tv/index.m3u8
+#EXTINF:-1, tv NRSR
+https://dash3.antik.sk/live/test_nrsr/playlist.m3u8
+#EXTINF:-1, ČT24
+https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
+#EXTINF:-1, Barrandov Krimi
+https://dash3.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
+#EXTINF:-1, A11
+https://dash3.antik.sk/live/test_regionalni_tv/playlist.m3u8
+#EXTINF:-1, TV Piánko
+https://dash2.antik.sk/live/test_pianko/playlist.m3u8
+#EXTINF:-1, SuperYacht TV
+https://dash3.antik.sk/live/test_superyacht/playlist.m3u8
+#EXTINF:-1, Doktor TV
+https://dash3.antik.sk/live/tv_doktor/index.m3u8
+#EXTINF:-1, PARK TV
+https://dash2.antik.sk/live/test_park_tv/playlist.m3u8
+#EXTINF:-1, English Club TV
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF:-1, LangLab
+https://dash2.antik.sk/live/langlabs/index.m3u8
+#EXTINF:-1, Lingo Toons
+https://dash2.antik.sk/live/lingotoons/index.m3u8
+#EXTINF:-1, Duck TV
+https://dash2.antik.sk/live/duck_tv/index.m3u8
+#EXTINF:-1, Duck TV Plus
+https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
+#EXTINF:-1, Mestská TV Košice
+https://dash2.antik.sk/live/test_mtv_kosice/playlist.m3u8
+#EXTINF:-1, RVTV
+https://dash2.antik.sk/live/test_roznava/playlist.m3u8
+#EXTINF:-1, Miestna TV Trebišov
+https://dash3.antik.sk/live/test_trebisov/playlist.m3u8
+#EXTINF:-1, HNTV
+https://dash3.antik.sk/live/test_hntv/playlist.m3u8
+#EXTINF:-1, BTV
+https://dash2.antik.sk/live/test_btv/playlist.m3u8
+#EXTINF:-1, Moldava TV
+https://dash2.antik.sk/live/test_moldava/playlist.m3u8
+#EXTINF:-1, TV9
+https://dash3.antik.sk/live/test_tv9/playlist.m3u8
+#EXTINF:-1, TV7
+https://dash2.antik.sk/live/test_tv7/playlist.m3u8
+#EXTINF:-1, ČSRTV
+https://dash2.antik.sk/live/test_csrtv/playlist.m3u8
+#EXTINF:-1, TV SEN
+https://dash3.antik.sk/live/test_tv_sen_atktv/playlist.m3u8
+#EXTINF:-1, TV Ružinov
+https://dash2.antik.sk/live/test_ruzinov/playlist.m3u8
+#EXTINF:-1, TV Kežmarok
+https://dash2.antik.sk/live/test_severka/playlist.m3u8
+#EXTINF:-1, TV Romana
+https://dash3.antik.sk/live/test_romana/playlist.m3u8
+#EXTINF:-1, TV Bratislava
+https://dash2.antik.sk/live/test_batv/playlist.m3u8
+#EXTINF:-1, Life TV
+https://dash2.antik.sk/live/test_life/playlist.m3u8
+#EXTINF:-1, TV RAJ
+https://dash2.antik.sk/live/test_raj/playlist.m3u8
+#EXTINF:-1, TV Vega
+https://dash2.antik.sk/live/test_vega/playlist.m3u8
+#EXTINF:-1, TV Panoŕama
+https://dash2.antik.sk/live/test_panorama/playlist.m3u8
+#EXTINF:-1, ATV Žiar
+https://dash3.antik.sk/live/test_atv_ziar/playlist.m3u8
+#EXTINF:-1, TV Zemplín
+https://dash2.antik.sk/live/test_zemplin/playlist.m3u8
+#EXTINF:-1, TV Poprad
+https://dash3.antik.sk/live/test_poprad/playlist.m3u8
+#EXTINF:-1, TV Reduta
+https://dash3.antik.sk/live/tv_reduta/playlist.m3u8
+#EXTINF:-1, Mestská Televízia Partizánske
+https://dash2.antik.sk/live/test_partizanske/playlist.m3u8
+#EXTINF:-1, TV Považie
+https://dash3.antik.sk/live/test_povazie/playlist.m3u8
+#EXTINF:-1, Mestská Televízia Trnava
+https://dash3.antik.sk/live/test_trnava/playlist.m3u8
+#EXTINF:-1, CENTRAL TV
+https://dash3.antik.sk/live/test_central/playlist.m3u8
+#EXTINF:-1, TV Mistral
+https://dash2.antik.sk/live/test_mistral_atktv/playlist.m3u8
+#EXTINF:-1, TV Nitrička
+https://dash2.antik.sk/live/test_nitricka/playlist.m3u8
+#EXTINF:-1, TV Nové Zámky
+https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
+#EXTINF:-1, Západoslovenská TV
+https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8
+#EXTINF:-1, TV Vita
+https://dash2.antik.sk/live/test_vita/playlist.m3u8
+#EXTINF:-1, TV8
+https://dash2.antik.sk/live/test_osem/playlist.m3u8
+#EXTINF:-1, Régió TV
+https://dash3.antik.sk/live/test_regio_tv/playlist.m3u8
+#EXTINF:-1, TV LocAll
+https://dash3.antik.sk/live/test_locall/playlist.m3u8
+#EXTINF:-1, TVP World
+https://dash3.antik.sk/live/test_tvp_world/playlist.m3u8
+#EXTINF:-1, TVP Info
+https://dash3.antik.sk/live/test_tvp_info/playlist.m3u8
+#EXTINF:-1, TVP Polonia
+https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
+#EXTINF:-1, FREEДОМ
+https://dash2.antik.sk/live/test_uatv/playlist.m3u8
+#EXTINF:-1, Espreso TV
+https://dash3.antik.sk/live/test_espresso/playlist.m3u8
+#EXTINF:-1, Current Time
+https://dash2.antik.sk/live/test_current_time_atktv/playlist.m3u8
+#EXTINF:-1, Armenia 1 TV
+https://dash2.antik.sk/live/test_armenia/playlist.m3u8
+#EXTINF:-1, Euronews
+https://dash3.antik.sk/live/test_euronews/playlist.m3u8
+#EXTINF:-1, NHK World Japan
+https://dash3.antik.sk/live/test_nhk/playlist.m3u8
+#EXTINF:-1, Arirang TV
+https://dash2.antik.sk/live/test_arirang/playlist.m3u8
+#EXTINF:-1, TRT World
+https://dash3.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+#EXTINF:-1, Al Jazeera English
+https://dash3.antik.sk/live/test_aljazeera_eng/playlist.m3u8
+#EXTINF:-1, Al Jazeera
+https://dash2.antik.sk/live/test_aljazeera/playlist.m3u8
+#EXTINF:-1, Sky News
+https://dash2.antik.sk/live/test_skynews/playlist.m3u8
+#EXTINF:-1, France24 English
+https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
+#EXTINF:-1, France24
+https://dash2.antik.sk/live/test_france24_france/playlist.m3u8
+#EXTINF:-1, Rai 1
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:-1, Rai 3
+https://dash3.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+#EXTINF:-1, CGTN
+https://dash3.antik.sk/live/test_cgtn/playlist.m3u8
+#EXTINF:-1, CGTN Documentary
+https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
+#EXTINF:-1, Rebel
+https://dash3.antik.sk/live/test_rebel/playlist.m3u8
+#EXTINF:-1, Relax
+https://dash3.antik.sk/live/test_relax/playlist.m3u8
+#EXTINF:-1,Arirang Korea
+https://dash3.antik.sk/live/test_arirang/playlist.m3u8
+#EXTINF:-1,Nastoyaszcze wrenia
+https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
+#EXTINF:-1,Silk Way
+https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
+#EXTINF:-1,TV8
+https://dash3.antik.sk/live/test_osem/playlist.m3u8
+#EXTINF:-1,NDR
+https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8
+#EXTINF:-1,CCTV-4_Europe
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1,CGTN_Arabic
+https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
+#EXTINF:-1,CGTN_French
+https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
+#EXTINF:-1,CGTN_Russian
+https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
+#EXTINF:-1,CGTN_Spanish
+https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
+#EXTINF:-1,filmbox_arthouse
+https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
+#EXTINF:-1,regionalni_tv
+https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
+#EXTINF:-1,barrandov_plus
+https://dash2.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
+#EXTINF:-1,vh_1_classic
+https://dash2.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
+#EXTINF:-1,docubox
+https://dash2.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+#EXTINF:-1,ocko_black
+https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
+#EXTINF:-1,duck_tv
+https://dash2.antik.sk/live/duck_tv/index.m3u8
+#EXTINF:-1,stingray_iconcerts_hd
+https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+#EXTINF:-1,rik
+https://dash2.antik.sk/live/rik_atk/index.m3u8
+#EXTINF:-1,mtv_dance
+https://dash2.antik.sk/live/test_mtv_dance_1200_atk/playlist.m3u8
+#EXTINF:-1,360_tunebox
+https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+#EXTINF:-1,ocko_star
+https://dash2.antik.sk/live/test_ocko_star/playlist.m3u8
+#EXTINF:-1,fast_and_funbox
+https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1,fashionbox
+https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
+#EXTINF:-1,Music Box Classic
+https://dash4.antik.sk/live/mb_classic/index.m3u8
+#EXTINF:-1,ORF 1
+https://dash2.antik.sk/live/test_orf_eins_tizen/playlist.m3u8
+#EXTINF:-1,PRO 7
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1,rbb_Fernsehen
+https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8
+#EXTINF:-1,SAT.1_Gold
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+#EXTINF:-1,sixx
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1,MDR_Fernsehen_Thuringen
+https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
+#EXTINF:-1,NZTV
+https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
+#EXTINF:-1,BBC_News_Europe
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+#EXTINF:-1,EWTN
+https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8
+#EXTINF:-1,KiKA_HD
+https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+#EXTINF:-1,arte_HD
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1,rai_tre
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
