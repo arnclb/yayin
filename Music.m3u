@@ -25,6 +25,8 @@ http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 https://livetv-app.mylifeisgood.net.ru/channels/bridgehitstvya.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ihZKeQg.png",M6 Music
 http://145.239.5.177/320/mpegts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w4kAX1V.png",C Star
+http://145.239.5.177/361/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png",MCM Top
 http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png",MCM Top Russia
