@@ -26,7 +26,7 @@ https://livetv-app.mylifeisgood.net.ru/channels/bridgehitstvya.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ihZKeQg.png",M6 Music
 http://145.239.5.177/320/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w4kAX1V.png",C Star
- http://151.80.18.177:86/D17_HD/index.m3u8
+http://151.80.18.177:86/D17_HD/index.m3u8
 http://145.239.5.177/361/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png",MCM Top
 http://185.228.163.146:8000/play/a00g/index.m3u8
@@ -82,6 +82,7 @@ https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/ocs4XeBHUbSGwy-X2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J09lNZK.png",Q-Music
 https://stream.qmusic.nl/qmusic/videohls.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Fyezng.png",360 TuneBox
+https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 http://88.212.7.14/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OoJSmoj.png",The Voice TV
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
@@ -142,9 +143,10 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 http://88.212.7.14//live/test_ocko_expres/playlist.m3u8
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yOoPiAa.png",Ocko Star
-http://88.212.7.14/live/test_ocko_star/playlist.m3u8
 https://dash2.antik.sk/live/test_ocko_star/playlist.m3u8
+http://88.212.7.14/live/test_ocko_star/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5rw9tWy.png",Ocko Black
+https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
 http://88.212.7.14/live/test_ocko_black/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G3ld5cc.png",BB BLACK!
 https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
@@ -157,6 +159,7 @@ https://jmp2.uk/stvp-CHAJ0500413A
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJeKucp.png",Music Box Classic
 http://88.212.7.14/live/mb_classic/index.m3u8
+https://dash4.antik.sk/live/mb_classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJTQq81.png",Bridge Classic
 https://ru02.plinkspile.su/6861/index.m3u8?token=KUSbsUbF6HxqFZ
 http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
