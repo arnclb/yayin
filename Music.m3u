@@ -31,7 +31,6 @@ http://151.80.18.177:86/D17_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png",MCM Top
 http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png",MCM Top Russia
-http://45.145.32.13:20440/mcm_top/index.m3u8?token=test
 #http://ru01.plinkspile.su/5268/index.m3u8?token=KUSbsUbF6HxqFZ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
