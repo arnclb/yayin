@@ -138,6 +138,7 @@ https://nl.utako.moe/mtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FDqfAJs.png",Clubland UK
 http://176.65.146.99:4002/play/a06j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DIOHX3l.png",Ocko
+http://88.212.7.14//live/test_ocko/playlist.m3u8
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5rtth6J.png",Ocko Expres
 http://88.212.7.14//live/test_ocko_expres/playlist.m3u8
