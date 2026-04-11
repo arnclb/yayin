@@ -1,0 +1,387 @@
+#EXTM3U
+#EXTINF:-1,Test 1
+https://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1,Test 2
+https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1,Test 3
+https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
+#EXTINF:-1,Test 4
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
+#EXTINF:-1,Test 5
+https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
+#EXTINF:-1,Test 6
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1,Test 7
+https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8
+#EXTINF:-1,Test 8
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1,Test 9
+https://ma.anixa.tv/clips/stream/aristo/index.m3u8
+#EXTINF:-1,Test 10
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1,Test 11
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1,Test 12
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1,Test 13
+https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1,Test 14
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1,Test 15
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1,Test 16
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1,Test 17
+https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
+#EXTINF:-1,Test 18
+https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+#EXTINF:-1,Test 19
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:-1,Test 20
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1,Test 21
+https://dash2.antik.sk/live/test_br_tizen/playlist.m3u8
+#EXTINF:-1,Test 22
+https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8
+#EXTINF:-1,Test 23
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1,Test 24
+https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
+#EXTINF:-1,Test 25
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:-1,Test 26
+https://cira-tv.akamaized.net/hls/stream_0.m3u8
+#EXTINF:-1,Test 27
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1,Test 28
+https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
+#EXTINF:-1,Test 29
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+#EXTINF:-1,Test 30
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8
+#EXTINF:-1,Test 31
+https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8
+#EXTINF:-1,Test 32
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1,Test 33
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1,Test 34
+https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3u8
+#EXTINF:-1,Test 35
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1,Test 36
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
+#EXTINF:-1,Test 37
+https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
+#EXTINF:-1,Test 38
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1,Test 39
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1,Test 40
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+#EXTINF:-1,Test 41
+https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1,Test 42
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:-1,Test 43
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+#EXTINF:-1,Test 44
+https://media.finest.tv/hls/live.m3u8
+#EXTINF:-1,Test 45
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1,Test 46
+https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
+#EXTINF:-1,Test 47
+https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1,Test 48
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+#EXTINF:-1,Test 49
+https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1,Test 50
+https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
+#EXTINF:-1,Test 51
+https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
+#EXTINF:-1,Test 52
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+#EXTINF:-1,Test 53
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
+#EXTINF:-1,Test 54
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+#EXTINF:-1,Test 55
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1,Test 56
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:-1,Test 57
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+#EXTINF:-1,Test 58
+https://elephant.t62a.com/hls/8103/index.m3u8
+#EXTINF:-1,Test 59
+https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+#EXTINF:-1,Test 60
+https://api.alpaca.t62a.com/hls/9103/index.m3u8
+#EXTINF:-1,Test 61
+https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
+#EXTINF:-1,Test 62
+http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1,Test 63
+https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
+#EXTINF:-1,Test 64
+https://live2.telvi.de/hls/l-tv_s1.m3u8
+#EXTINF:-1,Test 65
+https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
+#EXTINF:-1,Test 66
+https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
+#EXTINF:-1,Test 67
+http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+#EXTINF:-1,Test 68
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1,Test 69
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1,Test 70
+https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
+#EXTINF:-1,Test 71
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1,Test 72
+https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
+#EXTINF:-1,Test 73
+https://viamotionhsi.netplus.ch/live/eds/mdr/browser-HLS8/mdr.m3u8
+#EXTINF:-1,Test 74
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1,Test 75
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1,Test 76
+https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
+#EXTINF:-1,Test 77
+https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8
+#EXTINF:-1,Test 78
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1,Test 79
+https://viamotionhsi.netplus.ch/live/eds/ndr/browser-HLS8/ndr.m3u8
+#EXTINF:-1,Test 80
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+#EXTINF:-1,Test 81
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1,Test 82
+https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8
+#EXTINF:-1,Test 83
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+#EXTINF:-1,Test 84
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1,Test 85
+https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
+#EXTINF:-1,Test 86
+https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8
+#EXTINF:-1,Test 87
+https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
+#EXTINF:-1,Test 88
+https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
+#EXTINF:-1,Test 89
+https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1,Test 90
+https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1,Test 91
+https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1,Test 92
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
+#EXTINF:-1,Test 93
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+#EXTINF:-1,Test 94
+https://s.ok54.de/abr_ok4/live/playlist.m3u8
+#EXTINF:-1,Test 95
+https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
+#EXTINF:-1,Test 96
+https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8
+#EXTINF:-1,Test 97
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:-1,Test 98
+https://s.ok54.de/mok-ks/kassel/playlist.m3u8
+#EXTINF:-1,Test 99
+https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
+#EXTINF:-1,Test 100
+https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
+#EXTINF:-1,Test 101
+https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
+#EXTINF:-1,Test 102
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1,Test 103
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+#EXTINF:-1,Test 104
+https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
+#EXTINF:-1,Test 105
+https://s.ok54.de/ott/webstream/playlist.m3u8
+#EXTINF:-1,Test 106
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1,Test 107
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
+#EXTINF:-1,Test 108
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
+#EXTINF:-1,Test 109
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1,Test 110
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1,Test 111
+https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
+#EXTINF:-1,Test 112
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1,Test 113
+https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8
+#EXTINF:-1,Test 114
+http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
+#EXTINF:-1,Test 115
+https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
+#EXTINF:-1,Test 116
+https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
+#EXTINF:-1,Test 117
+https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
+#EXTINF:-1,Test 118
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1,Test 119
+https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1,Test 120
+https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8
+#EXTINF:-1,Test 121
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1,Test 122
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+#EXTINF:-1,Test 123
+https://viamotionhsi.netplus.ch/live/eds/rbb/browser-HLS8/rbb.m3u8
+#EXTINF:-1,Test 124
+https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1,Test 125
+http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
+#EXTINF:-1,Test 126
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+#EXTINF:-1,Test 127
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+#EXTINF:-1,Test 128
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
+#EXTINF:-1,Test 129
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
+#EXTINF:-1,Test 130
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
+#EXTINF:-1,Test 131
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
+#EXTINF:-1,Test 132
+https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8
+#EXTINF:-1,Test 133
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+#EXTINF:-1,Test 134
+https://viamotionhsi.netplus.ch/live/eds/ric/browser-HLS8/ric.m3u8
+#EXTINF:-1,Test 135
+https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:-1,Test 136
+https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8
+#EXTINF:-1,Test 137
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1,Test 138
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
+#EXTINF:-1,Test 139
+https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
+#EXTINF:-1,Test 140
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
+#EXTINF:-1,Test 141
+https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+#EXTINF:-1,Test 142
+https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
+#EXTINF:-1,Test 143
+https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
+#EXTINF:-1,Test 144
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1,Test 145
+http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
+#EXTINF:-1,Test 146
+https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8
+#EXTINF:-1,Test 147
+https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
+#EXTINF:-1,Test 148
+https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8
+#EXTINF:-1,Test 149
+https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
+#EXTINF:-1,Test 150
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1,Test 151
+https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1,Test 152
+https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8
+#EXTINF:-1,Test 153
+https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8
+#EXTINF:-1,Test 154
+https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1,Test 155
+https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8
+#EXTINF:-1,Test 156
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1,Test 157
+https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1,Test 158
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+#EXTINF:-1,Test 159
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
+#EXTINF:-1,Test 160
+https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8
+#EXTINF:-1,Test 161
+https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
+#EXTINF:-1,Test 162
+https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
+#EXTINF:-1,Test 163
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+#EXTINF:-1,Test 164
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1,Test 165
+https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
+#EXTINF:-1,Test 166
+https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
+#EXTINF:-1,Test 167
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+#EXTINF:-1,Test 168
+https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
+#EXTINF:-1,Test 169
+https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
+#EXTINF:-1,Test 170
+https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
+#EXTINF:-1,Test 171
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1,Test 172
+https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
+#EXTINF:-1,Test 173
+https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
+#EXTINF:-1,Test 174
+https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
+#EXTINF:-1,Test 175
+https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
+#EXTINF:-1,Test 176
+https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
+#EXTINF:-1,Test 177
+https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
+#EXTINF:-1,Test 178
+https://s6.hopslan.com/n24X/index.m3u8
+#EXTINF:-1,Test 179
+https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
+#EXTINF:-1,Test 180
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+#EXTINF:-1,Test 181
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
+#EXTINF:-1,Test 182
+https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+#EXTINF:-1,Test 183
+https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m3u8
+#EXTINF:-1,Test 184
+https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
+#EXTINF:-1,Test 185
+https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
+#EXTINF:-1,Test 186
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+#EXTINF:-1,Test 187
+https://d162h6qqsk8wvl.cloudfront.net/8c880c40-991d-4253-aae9-754f1ed050ce/manifest.m3u8
+#EXTINF:-1,Test 188
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:-1,Test 189
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1,Test 190
+https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
+#EXTINF:-1,Test 191
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8
+#EXTINF:-1,Test 192
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,Test 193
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
