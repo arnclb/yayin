@@ -114,7 +114,7 @@ http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
 http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-shanson.png",Радио Шансон
 http://chanson.hostingradio.ru:8041/chanson256.mp3
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-vania.png group-title="Радио",Радио Ваня
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4wVbb07.png",Радио Ваня
 http://icecast-radiovanya.cdnvideo.ru:8000/radiovanya
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/retro-fm.png",Ретро FM
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
