@@ -33,11 +33,11 @@ https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
 http://176.65.146.224:4003/play/a06m/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KiOnQnD.png",STV
-http://176.65.146.224:4007/play/a073/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2FWzNY6.png",U&Dave
 http://176.65.146.224:4007/play/a077/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MfKTQn1.png",U&DaveJaVu
+http://176.65.146.224:4007/play/a07c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r3pqSHl.png",U&Yesterday
 http://176.65.146.224:4007/play/a076/index.m3u8
@@ -69,6 +69,12 @@ http://176.65.146.99:4001/play/a084/index.m3u8
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 http://176.65.146.99:4001/play/a082/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MTSgoGI.png",FILM4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pi7so2l.png",5USA
 http://176.65.146.224:4003/play/a06h/index.m3u8
 
@@ -90,12 +96,6 @@ http://176.65.146.224:4007/play/a06n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MpKzWIT.png",QUEST
 https://viamotionhsi.netplus.ch/live/eds/quest/browser-dash/quest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MTSgoGI.png",FILM4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
-https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QN0SMt4.png",Virgin Media One
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -127,6 +127,9 @@ http://176.65.146.224:4002/play/a06g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/36KDxLg.png",BBC Alba
 http://176.65.146.224:4002/play/a06j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KiOnQnD.png",STV
+http://176.65.146.224:4007/play/a073/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC News
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
