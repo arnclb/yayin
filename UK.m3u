@@ -8,25 +8,20 @@ http://41.205.93.154/BBCONE/index.m3u8
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xwPekCF.png",ITV1
 http://176.65.146.224:4004/play/a07n/index.m3u8
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19185/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2BpUK0W.png",ITV2
 http://176.65.146.224:4004/play/a07l/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JuyM2z5.png",ITV3
 http://176.65.146.224:4004/play/a07o/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DYI4IA2.png",ITV4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jS0i8mj.png",Channel 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -34,11 +29,9 @@ https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GGfsy0J.png",Channel 5
 http://176.65.146.224:4003/play/a06m/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KiOnQnD.png",STV
 http://176.65.146.224:4007/play/a073/index.m3u8
@@ -64,13 +57,11 @@ http://176.65.146.224:4007/play/a079/index.m3u8
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/22MfjF4.png",E4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
 http://176.65.146.99:4001/play/a084/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fpaxyop.png",4seven
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -78,10 +69,8 @@ http://176.65.146.99:4001/play/a084/index.m3u8
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 http://176.65.146.99:4001/play/a082/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pi7so2l.png",5USA
 http://176.65.146.224:4003/play/a06h/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PI11s9s.png",5STAR
 http://176.65.146.224:4003/play/a06j/index.m3u8
@@ -108,16 +97,6 @@ https://viamotionhsi.netplus.ch/live/eds/quest/browser-dash/quest.mpd
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8uZSZdS.png",RTÉ One
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=575e49ee6270de247bb5f814a98a6b2b:ac3d5c349891dba83977f967402e117c
-https://live.rte.ie/live/a/channel1/channel1.isml/channel1.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1RV97tP.png",RTÉ Two
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
-https://live.rte.ie/live/a/channel2/channel2.isml/channel2.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QN0SMt4.png",Virgin Media One
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a4852ca631e42e553cf53ad6150f7b0:f1e3f39d41614993ac5c5353f6e58d1c
@@ -139,31 +118,20 @@ https://live-virginmedia.simplestreamcdn.com/out/v1/426d7a9e942b4f64917d66940bd3
 https://live-virginmedia.simplestreamcdn.com/out/v1/bb744b243afb44eabcc56d002c36cafd/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XiAKb4E.png",TG4
-https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vrcbnBv.png",S4C
 http://176.65.146.224:4004/play/a072/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mOUSWXc.png",BBC One Scotland
 http://176.65.146.224:4002/play/a06g/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/36KDxLg.png",BBC Alba
 http://176.65.146.224:4002/play/a06j/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC News
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QeUbMkH.png",Sky News
 https://dash2.antik.sk/live/test_skynews/playlist.m3u8
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0v7250b.png",RTÉ News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=765cd70494b06fd06494702620bbc172:a453f47fa795900309609b68737b8c60
-https://live.rte.ie/live/a/channel3/channel3.isml/channel3.mpd
