@@ -9,14 +9,17 @@ https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xwPekCF.png",ITV1
+http://212.32.241.201:8000/play/a03o
 http://176.65.146.224:4004/play/a07n/index.m3u8
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19185/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2BpUK0W.png",ITV2
+http://212.32.241.201:8000/play/a03k
 http://176.65.146.224:4004/play/a07l/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JuyM2z5.png",ITV3
+http://212.32.241.201:8000/play/a02p
 http://176.65.146.224:4004/play/a07o/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
 
@@ -31,25 +34,32 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GGfsy0J.png",Channel 5
+http://212.32.241.201:8000/play/a023
 http://176.65.146.224:4003/play/a06m/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2FWzNY6.png",U&Dave
+http://212.32.241.201:8000/play/a057
 http://176.65.146.224:4007/play/a077/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MfKTQn1.png",U&DaveJaVu
+http://212.32.241.201:8000/play/a05f
 http://176.65.146.224:4007/play/a07c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r3pqSHl.png",U&Yesterday
+http://212.32.241.201:8000/play/a056
 http://176.65.146.224:4007/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/puBkpGj.png",U&W
+http://212.32.241.201:8000/play/a058
 http://176.65.146.224:4007/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1GKUug.png",U&Eden
+http://212.32.241.201:8000/play/a055
 http://176.65.146.224:4007/play/a075/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cGBJx59.png",U&Drama
+http://212.32.241.201:8000/play/a059
 http://176.65.146.224:4007/play/a079/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cx5YcAU.png",More4
@@ -77,18 +87,23 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pi7so2l.png",5USA
+http://212.32.241.201:8000/play/a01x
 http://176.65.146.224:4003/play/a06h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PI11s9s.png",5STAR
+http://212.32.241.201:8000/play/a01z
 http://176.65.146.224:4003/play/a06j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WJ9xR6l.png",5SELECT
+http://212.32.241.201:8000/play/a020
 http://176.65.146.224:4003/play/a06k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCh8w8w.png",5ACTION
+http://212.32.241.201:8000/play/a024
 http://176.65.146.224:4003/play/a06n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4FyoHYh.png",PBS America
+http://212.32.241.201:8000/play/a030
 http://176.65.146.224:4004/play/a079/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lY5sFgo.png",Really
@@ -133,17 +148,21 @@ https://live-virginmedia.simplestreamcdn.com/out/v1/bb744b243afb44eabcc56d002c36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XiAKb4E.png",TG4
 https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist-dvr__3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vrcbnBv.png",S4C
-http://176.65.146.224:4004/play/a072/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mOUSWXc.png",BBC One Scotland
+http://212.32.241.201:8000/play/a00g
 http://176.65.146.224:4002/play/a06g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/36KDxLg.png",BBC Alba
+http://212.32.241.201:8000/play/a00j
 http://176.65.146.224:4002/play/a06j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KiOnQnD.png",STV
+http://212.32.241.201:8000/play/a038
 http://176.65.146.224:4007/play/a073/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vrcbnBv.png",S4C
+http://212.32.241.201:8000/play/a03s
+http://176.65.146.224:4004/play/a072/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC News
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
