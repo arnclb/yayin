@@ -187,6 +187,7 @@ https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tu
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KMltQ5N.png",Rebel
 http://88.212.7.14/live/test_rebel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jXfqSel.png",Mezzo
+http://85.117.37.41/mezzo/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-dash/mezzo.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3Vq98lR.png",Sky Classica
 http://91.146.94.234:10001/play/a0ea
