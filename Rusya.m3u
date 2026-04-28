@@ -97,7 +97,6 @@ https://streaming.goodstream.icu/live/44.m3u8
 https://streaming.goodstream.icu/live/232.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BtqrHmz.png",Muz-TV
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
-
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/avtoradio.png",Авторадио
 http://ic7.101.ru:8000/v3_1
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/dorozhnoe-radio.png",Дорожное Радио
