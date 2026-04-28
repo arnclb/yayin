@@ -93,14 +93,8 @@ http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nyuxo8S.png",Qinghai TV
 http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j6kY8nh.png",Hainan TV 
-http://111.56.90.5/000000000000/5000000004000006211/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dANSiug.png",Gansu TV 
 http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6sOHLq8.png",CETV-1
-http://111.56.90.5/000000000000/5000000002000002652/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZD8XPmw.png",CETV-2
-http://111.56.90.5/000000000000/5000000011000031201/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u80SRzi.png",Sansha TV
 http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UKKsnhD.png",Yanbian TV
@@ -111,7 +105,6 @@ https://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWl
 http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AcGbrzc.png",Guangdong Sports
 http://119.123.77.106:8086/hls/42/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HNWS.png",Hunan TV 4K
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z5Ppzbi.png" group-title="4K",Hebei TV 4K
