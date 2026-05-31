@@ -37,7 +37,7 @@ http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UfmlXxe.png",Pyanitsa!
 https://vod.tuva.ru/friday/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nsk8PpB.png",Subbota!
-https://livetv-app.mylifeisgood.net.ru/channels/subbota.m3u8
+http://217.114.191.150/Subbota/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilUzAeb.png",STS
 http://94.230.128.107:8080/CTC/index.m3u8
 https://streaming.goodstream.icu/live/296.m3u8
@@ -66,7 +66,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W7ste2f.png",Unknown Russia
 https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZMKPAho.png",RTG TV
-https://a3569457567-s70378.cdn.ngenix.net/rtg_hd/1/index.m3u8
+http://93.84.115.174:10181/rtghd
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/istoria.png",Istoriya
 #http://185.46.16.239:8000/Istoriya
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4PAcpfM.png",Zvezda
@@ -86,9 +86,9 @@ http://158.101.222.193:88/georgia_play.php?id=amedia2
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia-hit.png",Amedia Hit
 http://158.101.222.193:88/georgia_play.php?id=amediahit
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/start-air.png",Start Air HD
-https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+http://cdn.kubteltv.workers.dev/?ID=372
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/start-world.png",Start World HD
-https://livetv.mylifeisgood.net.ru/channels/strvf.m3u
+http://cdn.kubteltv.workers.dev/?ID=371
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j2jDgH9.png",Dom Kino
 #EXTVLCOPT:https://televizor24tochka.ru/tv/dom-kino.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -96,9 +96,9 @@ https://streaming.goodstream.icu/live/44.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4wmnx1W.png",Karusel
 https://streaming.goodstream.icu/live/232.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BtqrHmz.png",Muz-TV
-https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
+http://185.71.81.6:8080/20/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/avtoradio.png",Авторадио
-http://ic7.101.ru:8000/v3_1
+http://23.105.238.4/gpm-avtoradio495.aacp
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/dorozhnoe-radio.png",Дорожное Радио
 http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KwVadgf.png",Наше радио
