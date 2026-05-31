@@ -91,20 +91,6 @@ https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 http://176.65.146.224:4007/play/a06n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MpKzWIT.png",QUEST
 #https://viamotionhsi.netplus.ch/live/eds/quest/browser-dash/quest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8uZSZdS.png",RTE One
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=575e49ee6270de247bb5f814a98a6b2b:ac3d5c349891dba83977f967402e117c
-https://live.rte.ie/live/a/channel1/channel1.isml/channel1.mpd
-http://84.203.20.23:9981/stream/channelid/130762250?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1RV97tP.png",RTE2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
-https://live.rte.ie/live/a/channel2/channel2.isml/channel2.mpd
-http://84.203.20.23:9981/stream/channelid/966397051?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QN0SMt4.png",Virgin Media One
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a4852ca631e42e553cf53ad6150f7b0:f1e3f39d41614993ac5c5353f6e58d1c
@@ -121,8 +107,6 @@ https://live-virginmedia.simplestreamcdn.com/out/v1/426d7a9e942b4f64917d66940bd3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bdcf25ad46d7907c35832964b836a4bd:9edd4350307b4405b132ff97816d81e9
 https://live-virginmedia.simplestreamcdn.com/out/v1/bb744b243afb44eabcc56d002c36cafd/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XiAKb4E.png",TG4
-https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist-dvr__3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mOUSWXc.png",BBC One Scotland
 http://176.65.146.224:4002/play/a06g/index.m3u8
 http://212.32.241.201:8000/play/a00g
@@ -137,6 +121,22 @@ http://212.32.241.201:8000/play/a038
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vrcbnBv.png",S4C
 http://176.65.146.224:4004/play/a072/index.m3u8
 http://212.32.241.201:8000/play/a03s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8uZSZdS.png",RTE One
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=575e49ee6270de247bb5f814a98a6b2b:ac3d5c349891dba83977f967402e117c
+https://live.rte.ie/live/a/channel1/channel1.isml/channel1.mpd
+http://84.203.20.23:9981/stream/channelid/130762250?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1RV97tP.png",RTE2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
+https://live.rte.ie/live/a/channel2/channel2.isml/channel2.mpd
+http://84.203.20.23:9981/stream/channelid/966397051?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XiAKb4E.png",TG4
+https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist-dvr__3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC News
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
