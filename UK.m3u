@@ -4,7 +4,7 @@ http://176.65.146.99:4001/play/a08d
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
 http://41.205.93.154/BBCONE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3xmgoK9.png",BBC Two
-http://176.65.146.224:4001/play/a08f/index.m3u8
+http://176.65.146.224:4001/play/a08f
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xwPekCF.png",ITV1
