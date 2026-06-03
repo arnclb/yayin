@@ -129,7 +129,6 @@ https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGc
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=575e49ee6270de247bb5f814a98a6b2b:ac3d5c349891dba83977f967402e117c
 https://live.rte.ie/live/a/channel1/channel1.isml/channel1.mpd
-http://84.203.20.23:9981/stream/channelid/130762250?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1RV97tP.png",RTE2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
