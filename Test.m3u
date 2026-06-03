@@ -1,281 +1,301 @@
-#EXTM3U url-tvg="https://arkina1234.github.io/xmltv/guide/epg-uk.xml;https://arkina1234.github.io/xmltv/guide/epg-uk-freeview.xml"
-#EXTINF:-1 group-title="UK" tvg-chno="1" tvg-id="1.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/s9eaa3ae15dae43a2352c7f3baf201aaf/16x9/colour?w=160",BBC One (London)
+#EXTM3U url-tvg="https://xmltv.info/de/epg.xml"
+#EXTINF:-1 group-title="Germany" tvg-id="DE: Das Erste",Das Erste
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: ZDF",ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: RTL",RTL
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="UK" tvg-chno="2" tvg-id="2.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/s4bf1f3c97f71f087f0eca0268b0c0138/16x9/colour?w=160",BBC Two
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
+https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: SAT.1",Sat.1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="UK" tvg-chno="3" tvg-id="3.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/sc3ba25353c0ef5ab7fde0cc03fae1904/16x9/colour?w=160",ITV1
-#KODIPROP:contentlookup=False
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a68b4bbd42effb29ffb901523b1f3754:c794cd85a4f016d017e2de2c39185cb5
+https://ac-009.live.p7s1video.net/123d03d0/t_001/sat1-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: VOX",VOX
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f6654f54e2654b6591d67c7716d7c6da:1239e052a9b157bfb857fa11cd18d9d1
-https://itvx-803d7.wasmer.app/itvx.php/itvx.mpd?id=ITV1
-#EXTINF:-1 group-title="UK" tvg-chno="3" tvg-id="STV.uk",STV (Scotland)
-https://stvedi.akamaized.net/out/v1/4ee4f54816e340888cbd8b99b5b3562f/index.m3u8
-#EXTINF:-1 group-title="UK" tvg-chno="4" tvg-id="4.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/s2d43a98ba9a88e002faf81ce78979f6e/16x9/colour?w=160",Channel 4
-#KODIPROP:contentlookup=False
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fcfb484409cd5e9038302c2867d7c1a8:a4873fe758a838b5d31cbeb0e4357ab9
+https://pnowlive-a.akamaized.net/live/voxhd/dash/voxhd.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: ProSieben",ProSieben
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
-#EXTINF:-1 group-title="UK" tvg-chno="4" tvg-id="S4C.uk",S4C (Wales)
-https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
-#EXTINF:-1 group-title="UK" tvg-chno="5" tvg-id="5.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/s5ffdadc9435867239ce9fce7316f5601/16x9/colour?w=160",5
-#KODIPROP:contentlookup=False
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63840c3a4052d579340529fc533b4d5c:eae4d4cd0e6b227781cce20faeb8547a
+https://ac-009.live.p7s1video.net/d9f5c007/t_001/prosieben-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: Kabel Eins",kabel eins
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|49a267a5bcc34daaa32c024c00f61705:1d24bce07cea7d5a3861aca7e08958d8
-https://00f5f8579b5d647e0e619d3493705510.channel5.com/c5/a9fa708ec2a94f97af77f30947edfc41/index.mpd
-#EXTINF:-1 group-title="UK" tvg-id="23.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/sc00c2d2321a4c5db5dedea644fa7638a/16x9/colour?w=160",BBC Three
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4be97d7f735af6a3451aca364b82a0ca:81fe64b5b28f270f0732a08e475ab003
+https://ac-009.live.p7s1video.net/0d8f8d9c/t_001/kabeleins-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: BR Süd",BR Fernsehen (Süd)
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: HR",hr-fernsehen
+https://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: MDR Sachsen",MDR-Fernsehen (Sachsen)
+https://mdr-live.ard-mcdn.de/mdr/live/hls/de/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: NDR Niedersachsen",NDR Fernsehen (Niedersachsen)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: Radio Bremen TV",Radio Bremen Fernsehen
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: rbb Berlin",rbb Fernsehen (Berlin)
+https://rbb-live.ard-mcdn.de/rbb/berlin/hls/de/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: SR",SR Fernsehen
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: SWR BW",SWR Fernsehen (Baden-Württemberg)
+https://mcdn.swr.de/swr/swrbwd/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: WDR Köln",WDR Fernsehen
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: ONE",One
+https://mcdn-one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: ARTE",Arte
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: ZDFneo",ZDFneo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: ZDFinfo",ZDFinfo
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: KiKA",KiKA
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: 3sat",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: Tagesschau24",tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: ARD alpha",ARD alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: Phoenix",phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: SIXX",sixx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="UK" tvg-id="9.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/s893c7a664fd07d4796f9b647bb44c477/16x9/colour?w=160",BBC Four
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4edad70423eeb42c657c8fcd98d29597:180c718d8085c72fd2ecc59d94364eb0
+https://ac-009.live.p7s1video.net/061b2e86/t_001/sixx-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: ProSieben MAXX",ProSieben Maxx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="UK" tvg-id="201.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/sf60a7287740d068dc088d39f4d3cee1a/16x9/colour?w=160",CBBC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f373c6d4b40f79a4036331c5990cf57f:519c560107c16eef0706835744c2971c
+https://ac-009.live.p7s1video.net/4790383b/t_001/prosiebenmaxx-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: SAT.1 GOLD",Sat.1 Gold
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="UK" tvg-id="202.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/s6a9ffef5942a85ddca478c367a2a14d8/16x9/colour?w=160",CBeebies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a41460f6df3d72e240132eb283f9684f:61779333d8cac9fbf31d957035e45a58
+https://ac-009.live.p7s1video.net/719ea289/t_001/sat1gold-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: Kabel Eins Doku",kabel eins Doku
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="UK" tvg-id="231.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/s6435109af0cf5a94751c58613d77ae7a/16x9/colour?w=160",BBC News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5672c0a79d43378d6f18e015bf6c2b62:6127715b112f59d93d868615f59a99fc
+https://ac-009.live.p7s1video.net/b5b26355/t_001/kabeleinsdoku-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: RTL ZWEI",RTL Zwei
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="UK" tvg-id="232.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/s1e4458f9730a43446547a6f43bf68595/16x9/colour?w=160",BBC Parliament
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbc471fc4c310aab6023f1dd38462e83:86763f0030ecd2fd82a8b04d20f7f4b3
+https://pnowlive-a.akamaized.net/live/rtl2hd/dash/rtl2hd.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: NITRO",NITRO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="UK" tvg-id="BBCScotland.uk",BBC Scotland [Scotland]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=343a23cd3dfcf4550194f0528771366c:ad47ec098d7249e45da238adccba45cf
+https://pnowlive-a.akamaized.net/live/nitrohd/dash/nitrohd.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: N-TV",n-tv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="UK" tvg-id="BBCAlba.uk",BBC ALBA [Scotland]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3fd9036ec102684a2289b4e49eda746:2500f807780e95a2fa40ab9e5a72f05b
+https://pnowlive-a.akamaized.net/live/ntvhd/dash/ntvhd.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: RTLup",RTLup
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="UK" tvg-logo="https://img.freeviewplay.tv/s613a3467a5048e4f82a5ea01895979d5/16x9/colour?w=160" tvg-id="601.freeview.co.uk",BBC Red Button 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62ca09d12f35268cebf0a81e9c2c320f:9e1157686e440db7499cd3deab24dfb2
+https://pnowlive-a.akamaized.net/live/rtluphd/dash/rtluphd.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: VOXup",VOXup
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="UK" tvg-id="6.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/sa2ce64c95d4daf1c7fa650cb99773442/16x9/colour?w=160",ITV2
-#KODIPROP:contentlookup=False
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eeedc51b7ebdc1aa187f867b40fcf8d:748d2c1a459cf8c8392e96f6a66287f1
+https://pnowlive-a.akamaized.net/live/voxuphd/dash/voxuphd.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: Super RTL",RTL Super
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=com.widevine.alpha|https://widevine-license.eu-west-2.vudrm.tech/proxy|Content-Type=application%2Foctet-stream|R{SSM}|
-https://itvx-803d7.wasmer.app/itvx.php/itvx.mpd?id=ITV2
-#EXTINF:-1 group-title="UK" tvg-id="10.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/s4b9c5363866d7a55988564c4bd4cb424/16x9/colour?w=160",ITV3
-#KODIPROP:contentlookup=False
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a89c191c081b3ae4431f0875c4af2231:0ea7204677e6090e3dec06cc413d8729
+https://pnowlive-a.akamaized.net/live/superrtlhd/dash/superrtlhd.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: TOGGO plus",Toggo Plus
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8df1bb25df6a4a028a1dfe01128c85e0:d16cf442d9e58b1b33ac0166d51ca06a
-https://itvx-803d7.wasmer.app/itvx.php/itvx.mpd?id=ITV3
-#EXTINF:-1 group-title="UK" tvg-id="26.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/se1526a8af795522bfb4c70fb858ecbe5/16x9/colour?w=160",ITV4
-#KODIPROP:contentlookup=False
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a463b86ef4e6a2531e1bc2df142a9db8:b7ee774343b708fa371c1c590139d357
+https://pnowlive-a.akamaized.net/live/toggoplushd/dash/toggoplushd.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: WELT",WELT
+https://broadcast.welt.personalstream.tv/ses/hls/live/2040228/welttv-broadcast/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: N24 Doku",N24 Doku
+https://broadcast.n24-doku.personalstream.tv/ses/hls/live/2107300/n24-doku-live/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: DMAX",DMAX [Joyn]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|470184d47b5446efab050b7c20990f93:0bae47dc46cc52991b1b35dd9bacf0d1
-https://itvx-803d7.wasmer.app/itvx.php/itvx.mpd?id=ITV4
-#EXTINF:-1 group-title="UK" tvg-id="28.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/sf0bb09720a55e41ca4cb8f7fd0733c67/16x9/colour?w=160",ITV Quiz
-#KODIPROP:contentlookup=False
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c401c268b85841e3345dfabb1aa497fe:c3999ac196a5b2e0184574dda390d2ad
+https://p7s1-live-009-prod.akamaized.net/97bf783a/t_009/dmax-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: TELE 5",Tele 5 [Joyn]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a973712ce9fc4e049ad4588d70857828:0c73990b420c5f864f79494ec866c1e7
-https://itvx-803d7.wasmer.app/itvx.php/itvx.mpd?id=ITVBe
-#EXTINF:-1 group-title="UK" tvg-id="13.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/s2ead5a9a44f371809776bed41f566448/16x9/colour?w=160",E4
-#KODIPROP:contentlookup=False
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb9a918eaaa0352446a6d963e2a35b35:acffb24113cd1d81f5945f3bea55c4c3
+https://p7s1-live-009-prod.akamaized.net/b96a5f0c/t_009/tele5-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: Disney Channel",Disney Channel
+https://strm.hdtvizlecanli.com/live/disney.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: TLC",TLC [Joyn]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest_sd.mpd
-#EXTINF:-1 group-title="UK" tvg-id="18.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/sd76668cc824cdbff2df6377b20fcf7a6/16x9/colour?w=160",More4
-#KODIPROP:contentlookup=False
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21af4597b725ebda19693606693418f8:8678727ac71a9d2688e40d18cc934364
+https://p7s1-live-009-prod.akamaized.net/e24de9d1/t_009/tlc-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: SPORT1",Sport1
+https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: Eurosport 1",Eurosport 1 [Joyn]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest_sd.mpd
-#EXTINF:-1 group-title="UK" tvg-id="14.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/sd8f9f2cfd3bacedd71ced98d582c355d/16x9/colour?w=160",Film4
-#KODIPROP:contentlookup=False
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=afbb1ea03504f4be0f982a65b3f63c25:77ed6dbea21629dcca92f2956c6b6628
+https://p7s1-live-016-prod.akamaized.net/7db15d2f/t_009/eurosport1-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="",DF1
+https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: Comedy Central",Comedy Central [Joyn]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest_sd.mpd
-#EXTINF:-1 group-title="UK" tvg-id="49.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/sed7f82f2a88e9e05e05d09bac7c937f8/16x9/colour?w=160",4seven
-#KODIPROP:contentlookup=False
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c28321a9198e616a8fe0bb36439009:844762d17c7a14a1845094863ceb5293
+https://p7s1-live-009-prod.akamaized.net/e1654d96/t_009/comedy-central-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: HGTV",HGTV [Joyn]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest_sd.mpd
-#EXTINF:-1 group-title="UK" tvg-id="21.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/s94f727e7678cf533b3a42f08bae21dcf/16x9/colour?w=160",5USA
-#KODIPROP:contentlookup=False
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d60703c821a80e752df2c1170d5d7439:5aa8853fe68e46bf240bf4fc005c3604
+https://p7s1-live-009-prod.akamaized.net/acca7ed6/t_009/hgtv-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: Nick/CC+1",Nick/CC+1 [Joyn]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d324328db27144cda7778a7d73291fe1:d2d920c82567f65aba98a6b7fb03dae3,47e07890e1e3c53c12f4ff6b843dc1ae:d2d920c82567f65aba98a6b7fb03dae3
-https://akadashlive-5usa.akamaized.net/out/v1/5fd4d85d778f431985cfa11190826777/index.mpd
-#EXTINF:-1 group-title="UK" tvg-id="32.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/s03210563782c9adb98b25ee201d81be3/16x9/colour?w=160",5STAR
-#KODIPROP:contentlookup=False
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffdbfe565d7afdede6154dfcf366e500:fd9a7a53157516493c1332938b22b6d8
+https://p7s1-live-009-prod.akamaized.net/e85065ab/t_009/nickelodeon-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: Deluxe Music",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: MTV",MTV Germany [Joyn]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|31c99fca03f345c1b9c2f501a621058e:c3e75e6c11515c32bb4ac7c163523b3d,244fce7dde4625c938a3728b122ac51e:c3e75e6c11515c32bb4ac7c163523b3d
-https://akadashlive-5star.akamaized.net/out/v1/c7150fa2d717466cae6740c9b75e0973/index.mpd
-#EXTINF:-1 group-title="UK" tvg-id="33.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/sd01f61019d618d530a0003a8db7825f6/16x9/colour?w=160",5ACTION
-#KODIPROP:contentlookup=False
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0dc24fb57d8d4ff28efa22ed984568ac:3548e7c2f13627c3f6925dd818cfc5a2,9d7c1018ebb967a000e26b4911807b19:3548e7c2f13627c3f6925dd818cfc5a2
-https://akadashlive-paramount.akamaized.net/out/v1/074b4a2bf3564611b4a6908d78b8e2c0/index.mpd
-#EXTINF:-1 group-title="UK" tvg-id="46.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/saee6f1105e4ff046bf1611015e751c51/16x9/colour?w=160",5SELECT
-#KODIPROP:contentlookup=False
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0314fccf0c2941c69a2b12f9ad8c4710:f67abdaaf8b967ece70035ed64b07194,2cede23e0a9ad10be42c074329402963:f67abdaaf8b967ece70035ed64b07194
-https://akadashlive-5select.akamaized.net/out/v1/f23dc3e45f1b4824a36cb33c1aafaa8a/index.mpd
-#EXTINF:-1 group-title="UK" tvg-id="SkyMix.uk",Sky Mix
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:contentlookup=False
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2d1bc558ff4d40f5b7094313ae31c58c:078f4f836ddb48705fb10b2fcc794add
-https://d3ulpxjxf8pfh5.cloudfront.net/out/v1/316245defadc4a61bb09258e05eef128/HLS_CMAF_DRM/index.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="Challenge.uk",Challenge
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:contentlookup=False
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f1cfa40698654247aac41bebc51b9042:f6a493ce85930e3ddd9ff14a41377904
-https://d33c53jye60q66.cloudfront.net/out/v1/778eabe924be48288f1f695913d8abd3/HLS_CMAF_DRM/index.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="SkyArts.uk",Sky Arts
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:contentlookup=False
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5c23867431604d7787f5a03456fdfd32:810e479ebe2ec8d111a8b7c465e1f980
-https://d263m8g5my89g4.cloudfront.net/out/v1/b2814f8068dd4b64a0ba0471ffac35fc/HLS_CMAF_DRM/index.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="Blaze.uk",Blaze
-https://live-blaze-fastly.simplestreamcdn.com/s3/blaze/index.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="TogetherTV.uk",Together TV
-https://d1uw9hvdgmm030.cloudfront.net/out/v1/0c33ef5f1fd4407db5f78d488a6718cf/index.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="SkyNews.uk",Sky News
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="CNBCEurope.uk",CNBC Europe
-https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/nbcu-uk-cnbc-samsunguk/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="GBNews.uk",GB News
-https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="RevelationTV.uk",Revelation TV
-https://live.mdc.akamaized.net/hls/live/revelationtv.stream_aac/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="GODTV.uk",GOD TV
-https://ott.god.tv/live/uk/master.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="QVC.uk",QVC UK
-https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="QVCBeauty.uk",QVC Beauty
-https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="QVCExtra.uk",QVC Extra
-https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="QVCStyle.uk",QVC Style
-https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="GemsTV.uk",Gems TV
-https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="HobbyMaker.uk",HobbyMaker
-https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="JewelleryMaker.uk",Jewellery Maker
-https://lo3.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="TJC.uk",TJC
-https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/master.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="IdealWorld.uk",Ideal World
-https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(HDTJCBeauty)/master.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",Faith UK
-https://faithnow-hls.secdn.net/faithnow-c-channel/play/FaithUK.smil/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",Sanskar TV
-https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",Euronews
-https://cdn-euronews.akamaized.net/live/eds/euronews-en/25080/euronews-en.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",Aastha UK
-https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",Eman Channel
-https://cdn149.anystream.uk:8082/app/3m9ntv/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",MTA1 WORLD
-https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",Iqra TV
-https://cdn149.anystream.uk:8082/app/iq6a7ktv/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",Iqra Bangla
-https://cdn149.anystream.uk:8082/app/iq53la/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",Islam TV
-https://ap02.iqplay.tv:8082/iqb8002/i6sl9m/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",iON TV
-https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",ATN Bangla UK
-https://ap02.iqplay.tv:8082/iqb8002/atbla85tv/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",Islam Channel
-https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",TBN UK
-https://cdn.jwplayer.com/live/broadcast/r08fY89I.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",Islam Channel Urdu
-https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/live.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",EWTN Europe
-https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",Akaal Channel
-https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/index.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",NTD UK
-https://ntd02.akamaized.net/NTD-UK/index.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",Noor TV
-https://sscsott.com/srt/noortvuk/index.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",NDTV World
-https://web-ndtv24x7-uk.akamaized.net/hls/live/2109290/ndtv24x7uk/master.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",Channel S
-https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",Kanshi TV
-https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",Deen TV
-https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",Takbeer TV
-https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",Faith World TV
-https://faithworldtv.abs.tv/1826926230/index.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",Islam Channel Bangla
-https://live-islamtv-bangla.simplestreamcdn.com/live12/islamtv_bangla/bitrate1.isml/live.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",Loveworld UK
-https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="",CNN International
-https://d1vnr7amzbx49s.cloudfront.net/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de964ef8f9cd50edb55de3e4a1aa9f1f:969e2e74f5a530e9cee1bf68c412e3f8
+https://p7s1-live-009-prod.akamaized.net/0e6fdb42/t_009/mtv-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="",DMF
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Dokusat
+https://dokusat.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",ANIXE HD
+https://wow.anixa.tv/live/anixehd2/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",ANIXE+
+https://wow.anixa.tv/live/anixesd/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",AristoTV
+http://wow.anixa.tv/live/aristo/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Deluxe Dance
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Deluxe Rap
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Schlager Deluxe
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Volksmusik.TV
+https://muc.iptv-playoutcenter.de/volksmusik/volksmusik.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Stimmungsgarten TV
+https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Melodie TV
+https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Telegold
+https://telegold.iptv-playoutcenter.de/telegold/telegold-sat1/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",TV5Monde Europe
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Euronews Deutsch
+https://cdn-euronews.akamaized.net/live/eds/euronews-de/25084/euronews-de.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",münchen.tv
+https://stream02.welocal.stream/stream/fhd-muenchentv_365036/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Franken Plus
+https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",OTVA
+https://stream02.welocal.stream/stream/fhd-otva_6546/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Niederbayern TV
+https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",tv.ingolstadt
+https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",SACHSENeins
+https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Baden TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",TV Berlin
+https://live2.telvi.de/hls/tvberlin.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",L-TV
+https://live2.telvi.de/hls/l-tv_s1.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",rfo Fernsehen Oberbayern
+https://stream01.welocal.stream/stream/fhd-rfo_210496/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",QVC
+https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",QVC Zwei
+https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",QVC Style
+https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",HSE
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",HSE Extra
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Juwelo
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",1-2-3 TV
+https://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",sonnenklar.TV
+https://euvia.cdn.ses-ps.com/secure/HLS-Live/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Handystar
+https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Bibel TV
+https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Hope TV Deutsch
+https://jstre.am/live/jsl:AQfP7b5HoTM.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",K-TV
+https://a19bf41486254a3485a864c8b0c14fe1.msvdn.net/live/S28743697/LpD0q2aoyujI/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",EWTN Katholisches
+https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",HSE Trend
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",MediaShop Meine Einkaufswelt
+https://stream01.welocal.stream/stream/fhd-meine-einkaufswelt_501/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",RiC
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
