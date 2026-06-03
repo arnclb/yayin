@@ -2,7 +2,7 @@
 #EXTINF:-1,RTÈ One
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=575e49ee6270de247bb5f814a98a6b2b:ac3d5c349891dba83977f967402e117c
-https://live.rte.ie/live/a/channel1/channel1.isml/dash/channel1.mpd
+https://live.rte.ie/live/a/channel1/channel1.isml/channel1.mpd
 
 #EXTINF:-1,RTÈ Two
 #KODIPROP:inputstream.adaptive.license_type=clearkey
