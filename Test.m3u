@@ -44,7 +44,7 @@ http://127.0.0.1:1984/itvx?channel=ITV3
 #KODIPROP:inputstream.adaptive.license_key=e9eb01f2e9e5433d82be649685f1aa22:b0b8e8401fd42069884834c82eb11e44
 http://127.0.0.1:1984/itvx?channel=ITV4
 
-#EXTINF:-1,ITVX Kids (r.i.p CITV)
+#EXTINF:-1,ITVX Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=840c2cb03a760f1558b0de950c2102db:18d7f4750489affe2bd15eff64bb2ac6
 http://127.0.0.1:1984/itvx?channel=fast6
