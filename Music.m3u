@@ -26,14 +26,14 @@ https://livetv-app.mylifeisgood.net.ru/channels/bridgehitstvya.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ihZKeQg.png",M6 Music
 http://145.239.5.177/320/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png",MCM Top
-http://45.145.32.13:20440/mcm_top/index.m3u8?token=test
+http://iptv.prosto.tv:7000/ch137/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyKL8eq.png",Trace UK
 https://jmp2.uk/stvp-GBBD19000026B
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Ww7CsR.png",1HD Music Television
-#http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
 http://176.118.197.101/1HD/index.m3u8
+#http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YdyFJrl.png",1Mus 
 http://rtmp.one.by:1300
 http://hz1.teleport.cc/HLS/HD.m3u8
