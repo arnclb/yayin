@@ -26,16 +26,14 @@ https://livetv-app.mylifeisgood.net.ru/channels/bridgehitstvya.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ihZKeQg.png",M6 Music
 http://145.239.5.177/320/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png",MCM Top
-http://185.228.163.146:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png",MCM Top Russia
-#http://ru01.plinkspile.su/5268/index.m3u8?token=KUSbsUbF6HxqFZ
+http://45.145.32.13:20440/mcm_top/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyKL8eq.png",Trace UK
 https://jmp2.uk/stvp-GBBD19000026B
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Ww7CsR.png",1HD Music Television
-http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
-http://176.118.197.101/1HD/index.m3u8
+#http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
+#http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YdyFJrl.png",1Mus 
 http://rtmp.one.by:1300
 http://hz1.teleport.cc/HLS/HD.m3u8
@@ -190,53 +188,53 @@ https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-dash/mezzo.mpd
 https://live-radio.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/live-audio_track_0_0_dut=128000-video_track=2100000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fa8Vhu0.png",LRT Klasika
 https://stream-live.lrt.lt/klasika/master.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/nh1k5RC.png",Stingray Classica
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/syB1XDN.png",Movie Music by Stingray
+#EXTINF:-1 tvg-logo="https://i.imgur.com/syB1XDN.png",Movie Music by Stingray
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/GKc7RFz.png",Stingray iConcerts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GKc7RFz.png",Stingray iConcerts
 https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/IRyFTWq.png",Qello Concerts by Stingray
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png",Qello Concerts by Stingray
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/wu4atsT.png",Stingray DJAZZ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wu4atsT.png",Stingray DJAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/UcprEcq.png",Stingray Holidayscapes
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UcprEcq.png",Stingray Holidayscapes
 https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/882kd90.png",Stingray Naturescape
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png",Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/l1EbIAu.png",Stingray Alternative
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l1EbIAu.png",Stingray Alternative
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/FBgu8yB.png",Stingray Classic Rock
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FBgu8yB.png",Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/l1EbIAu.png",Stingray Easy Listening
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l1EbIAu.png",Stingray Easy Listening
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/wiasHUR.png",Stingray Exitos del Momento
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wiasHUR.png",Stingray Exitos del Momento
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/jf5C9QF.png",Stingray Flashback 70's
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jf5C9QF.png",Stingray Flashback 70's
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/duwc8E8.png",Stingray Remember the 80s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/duwc8E8.png",Stingray Remember the 80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/Tq3I0po.png",Stingray Nothin' But 90s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tq3I0po.png",Stingray Nothin' But 90s
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/l1EbIAu.png",Stingray Greatest Hits
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l1EbIAu.png",Stingray Greatest Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/ErFzYwn.png",Stingray Hip-Hop/R&B
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ErFzYwn.png",Stingray Hip-Hop/R&B
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/lgpIwId.png",Stingray Hit List
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lgpIwId.png",Stingray Hit List
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/l1EbIAu.png",Stingray Hot Country 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l1EbIAu.png",Stingray Hot Country 
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/9TLTLS3.png",Stingray Karaoke
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9TLTLS3.png",Stingray Karaoke
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/H2ugC9L.png",Stingray Pop Adult
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H2ugC9L.png",Stingray Pop Adult
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/l1EbIAu.png",Stingray Romance Latino
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l1EbIAu.png",Stingray Romance Latino
 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/h1DsOzH.png",Stingray Smooth Jazz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1DsOzH.png",Stingray Smooth Jazz
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/l1EbIAu.png",Stingray Soul Storm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l1EbIAu.png",Stingray Soul Storm
 https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/ywAN923.png",Stingray The Spa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ywAN923.png",Stingray The Spa
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Ambiance" tvg-logo="https://i.imgur.com/mMbntB5.png",Stingray Today's K-Pop
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMbntB5.png",Stingray Today's K-Pop
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
