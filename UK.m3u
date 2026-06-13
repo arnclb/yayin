@@ -124,13 +124,14 @@ http://212.32.241.201:8000/play/a03s
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XiAKb4E.png",TG4
 https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8uZSZdS.png",RTE One
-http://41.180.140.146:4200/bysid/2101
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98812
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=575e49ee6270de247bb5f814a98a6b2b:ac3d5c349891dba83977f967402e117c
 https://live.rte.ie/live/a/channel1/channel1.isml/channel1.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1RV97tP.png",RTE2
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98811
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
