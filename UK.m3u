@@ -8,14 +8,17 @@ http://176.65.146.224:4001/play/a08f/index.m3u8
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xwPekCF.png",ITV1
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98826
 http://176.65.146.224:4004/play/a07n/index.m3u8
 http://212.32.241.201:8000/play/a03o
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19185/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2BpUK0W.png",ITV2
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98825
 http://176.65.146.224:4004/play/a07l/index.m3u8
 http://212.32.241.201:8000/play/a03k
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JuyM2z5.png",ITV3
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98824
 http://176.65.146.224:4004/play/a07o/index.m3u8
 http://212.32.241.201:8000/play/a02p
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
@@ -29,6 +32,7 @@ https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GGfsy0J.png",Channel 5
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98826 
 http://176.65.146.224:4003/play/a06m/index.m3u8
 http://212.32.241.201:8000/play/a023
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
