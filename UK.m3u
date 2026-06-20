@@ -53,6 +53,7 @@ http://212.32.241.201:8000/play/a058
 http://176.65.146.224:4007/play/a075/index.m3u8
 http://212.32.241.201:8000/play/a055
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cGBJx59.png",U&Drama
+http://149.102.245.111:80/3442/index.m3u8
 http://176.65.146.224:4007/play/a079/index.m3u8
 http://212.32.241.201:8000/play/a059
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cx5YcAU.png",More4
@@ -116,6 +117,8 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/98811
 http://149.102.245.111:80/225/index.m3u8
 http://176.65.146.224:4002/play/a06g/index.m3u8
 http://212.32.241.201:8000/play/a00g
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mOUSWXc.png",BBC One Wales
+http://149.102.245.111:80/927/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/36KDxLg.png",BBC Alba
 http://176.65.146.224:4002/play/a06j/index.m3u8
 http://212.32.241.201:8000/play/a00j
