@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mOUSWXc.png",BBC One
-http://176.65.146.224:4001/play/a08e/index.m3u8
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/98853
+http://176.65.146.224:4001/play/a08e/index.m3u8
 http://41.205.93.154/BBCONE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3xmgoK9.png",BBC Two
-http://176.65.146.224:4001/play/a08f/index.m3u8
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/98852
+http://176.65.146.224:4001/play/a08f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xwPekCF.png",ITV1
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/98826
 http://176.65.146.224:4004/play/a07n/index.m3u8
