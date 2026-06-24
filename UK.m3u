@@ -42,6 +42,7 @@ http://212.32.241.201:8000/play/a05f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uazjv8g.png",U&Alibi
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/98855
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r3pqSHl.png",U&Yesterday
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/37106
 http://176.65.146.224:4007/play/a076/index.m3u8
 http://212.32.241.201:8000/play/a056
 #EXTINF:-1 tvg-logo="https://i.imgur.com/puBkpGj.png",U&W
@@ -78,6 +79,7 @@ https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
 http://176.65.146.224:4003/play/a06h/index.m3u8
 http://212.32.241.201:8000/play/a01x
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PI11s9s.png",5STAR
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/37144
 http://176.65.146.224:4003/play/a06j/index.m3u8
 http://212.32.241.201:8000/play/a01z
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WJ9xR6l.png",5SELECT
@@ -113,6 +115,7 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/98812
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1RV97tP.png",RTE2
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/98811
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mOUSWXc.png",BBC One Scotland
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/37168
 http://176.65.146.224:4002/play/a06g/index.m3u8
 http://212.32.241.201:8000/play/a00g
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mOUSWXc.png",BBC One Wales
@@ -129,6 +132,7 @@ http://212.32.241.201:8000/play/a038
 http://176.65.146.224:4004/play/a072/index.m3u8
 http://212.32.241.201:8000/play/a03s
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XiAKb4E.png",TG4
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/110048
 https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC News
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/98850
