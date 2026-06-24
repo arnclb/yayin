@@ -30,6 +30,7 @@ https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GGfsy0J.png",Channel 5
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98847
 http://176.65.146.224:4003/play/a06m/index.m3u8
 http://212.32.241.201:8000/play/a023
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
@@ -38,6 +39,8 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/98844
 http://176.65.146.224:4007/play/a077/index.m3u8
 http://212.32.241.201:8000/play/a057
 http://212.32.241.201:8000/play/a05f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uazjv8g.png",U&Alibi
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98855
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r3pqSHl.png",U&Yesterday
 http://176.65.146.224:4007/play/a076/index.m3u8
 http://212.32.241.201:8000/play/a056
@@ -45,6 +48,7 @@ http://212.32.241.201:8000/play/a056
 http://176.65.146.224:4007/play/a078/index.m3u8
 http://212.32.241.201:8000/play/a058
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1GKUug.png",U&Eden
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98832
 http://176.65.146.224:4007/play/a075/index.m3u8
 http://212.32.241.201:8000/play/a055
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cGBJx59.png",U&Drama
@@ -80,6 +84,7 @@ http://212.32.241.201:8000/play/a01z
 http://176.65.146.224:4003/play/a06k/index.m3u8
 http://212.32.241.201:8000/play/a020
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCh8w8w.png",5ACTION
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98813
 http://176.65.146.224:4003/play/a06n/index.m3u8
 http://212.32.241.201:8000/play/a024
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pQ3xjRU.png",Sky Mix
