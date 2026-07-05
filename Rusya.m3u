@@ -118,4 +118,4 @@ http://rusradio.hostingradio.ru/rusradio96.aacp
 #EXTINF:-1 tvg-id="xit-fm" tvg-logo="https://iptvx.one/picons/xit-fm.png",Хит FM
 http://hitfm.hostingradio.ru/hitfm128.mp3
 #EXTINF:-1 tvg-id="yumor-fm" tvg-logo="https://iptvx.one/picons/yumor-fm.png",Юмор FM
-http://live.humorfm.by:8000/veseloe.m3u
+http://live.humorfm.by:8000/veseloe
