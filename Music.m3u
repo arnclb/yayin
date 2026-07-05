@@ -37,8 +37,6 @@ https://jmp2.uk/stvp-GBBD19000026B
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YdyFJrl.png",1Mus 
 http://rtmp.one.by:1300
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dCMIG98.png",Planeta 4K
-http://185.97.73.187:11000/play/planeta4k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mXUusgs.png",Totalmusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BhhH70G.png",Totalmusic Dance
@@ -74,6 +72,8 @@ https://livestream.siliconweb.com/live/kissfm/index.m3u8
 https://stream.castr.com/677fafaf8ca2a4c22070dcd7/live_630666b0fe9911ef8b76c5c61e61d902/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J09lNZK.png",Q-Music
 https://stream.qmusic.nl/qmusic/videohls.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dCMIG98.png",Planeta 4K
+http://185.97.73.187:11000/play/planeta4k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Fyezng.png",360 TuneBox
 https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 http://88.212.7.14/live/test_360_tunebox_medium_atk/playlist.m3u8
