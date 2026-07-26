@@ -1,9 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mOUSWXc.png",BBC One
-http://41.223.30.230/BBCONE/index.m3u8
 http://41.205.93.154/BBCONE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3xmgoK9.png",BBC Two
-http://41.223.30.230/BBCTWO/index.m3u8
+http://41.205.93.154/BBCTWO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xwPekCF.png",ITV1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2BpUK0W.png",ITV2
