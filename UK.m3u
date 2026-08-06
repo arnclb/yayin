@@ -1,36 +1,39 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mOUSWXc.png",BBC One
+http://79.143.16.74:80/stream/1/bbc1fhd.ts
 http://41.205.93.154/BBCONE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3xmgoK9.png",BBC Two
+http://79.143.16.74:80/stream/4/bbc2fhd.ts
 http://41.205.93.154/BBCTWO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xwPekCF.png",ITV1
-http://51.178.182.222:80/ITV1/index.m3u8
+http://45.90.106.126:80/stream/5/itv1fhd.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2BpUK0W.png",ITV2
+http://79.143.16.74:80/stream/8/itv2fhd.ts
 http://185.19.191.4:8090/ITV2/index.m3u8
 http://185.19.191.181:8090/ITV2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JuyM2z5.png",ITV3
-http://51.178.182.222:80/ITV3/index.m3u8
+http://79.143.16.74:80/stream/9/itv3fhd.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DYI4IA2.png",ITV4
-http://51.178.182.222:80/ITV4/index.m3u8
+http://79.143.16.74:80/stream/10/itv4fhd.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jS0i8mj.png",Channel 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GGfsy0J.png",Channel 5
-http://51.178.182.222:80/Channel5/index.m3u8
+http://79.143.16.74:80/stream/7/ch5fhd.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2FWzNY6.png",U&Dave
-http://51.178.182.222:80/Dave/index.m3u8
+http://79.143.16.74:80/stream/23/davefhd.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uazjv8g.png",U&Alibi
-http://51.178.182.222:80/Alibi/index.m3u8
+http://79.143.16.74:80/stream/13/alibifhd.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r3pqSHl.png",U&Yesterday
-http://51.178.182.222:80/Yesterday/index.m3u8
+http://89.46.123.5:80/stream/124/yesterdaysd.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/puBkpGj.png",U&W
-
+http://89.46.123.5:80/stream/376/uwsd.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1GKUug.png",U&Eden
-http://51.178.182.222:80/Eden/index.m3u8
+http://89.46.123.5:80/stream/114/edensd.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cGBJx59.png",U&Drama
-http://51.178.182.222:80/Drama/index.m3u8
+http://89.46.123.5:80/stream/122/dramasd.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cx5YcAU.png",More4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
@@ -52,16 +55,17 @@ http://176.65.146.99:4001/play/a082/index.m3u8
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pi7so2l.png",5USA
-http://51.178.182.222:80/5usa/index.m3u8
+http://89.46.123.5:80/stream/115/5usasd.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PI11s9s.png",5STAR
-http://51.178.182.222:80/5Star/index.m3u8
+http://89.46.123.5:80/stream/118/5starsd.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WJ9xR6l.png",5SELECT
-
+http://89.46.123.5:80/stream/117/5selsd.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCh8w8w.png",5ACTION
-
+http://45.90.106.117:80/stream/44/paramsd.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pQ3xjRU.png",Sky Mix
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4FyoHYh.png",PBS America
+http://89.46.123.5:80/stream/46/pbs.ts
 http://185.19.191.4:8090/PBS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QN0SMt4.png",Virgin Media One
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -80,25 +84,27 @@ https://live-virginmedia.simplestreamcdn.com/out/v1/426d7a9e942b4f64917d66940bd3
 #KODIPROP:inputstream.adaptive.license_key=bdcf25ad46d7907c35832964b836a4bd:9edd4350307b4405b132ff97816d81e9
 https://live-virginmedia.simplestreamcdn.com/out/v1/bb744b243afb44eabcc56d002c36cafd/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8uZSZdS.png",RTE One
-http://51.178.182.222:80/RTE1/index.m3u8
+http://45.90.106.117:80/stream/223/rte1sd.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1RV97tP.png",RTE2
-http://51.178.182.222:80/RTE2/index.m3u8
+http://45.90.106.117:80/stream/106/rte2sd.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mOUSWXc.png",BBC One Scotland
-
+http://45.90.106.117:80/stream/75/bbc1scothd.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mOUSWXc.png",BBC One Wales
-
+http://79.143.16.74:80/stream/1/bbc1fhd.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/36KDxLg.png",BBC Alba
-http://51.178.182.222:80/bbcalba/index.m3u8
+http://45.90.106.117:80/stream/340/bbcalbahd.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q5uk7nv.png",BBC Red Button 1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KiOnQnD.png",STV
-
+http://45.90.106.117:80/stream/100/stvhd.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vrcbnBv.png",S4C
-
+http://45.90.106.117:80/stream/98/s4chd.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XiAKb4E.png",TG4
+http://45.90.106.117:80/stream/108/tg4hd.ts
 https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC News
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QeUbMkH.png",Sky News
 https://dash2.antik.sk/live/test_skynews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kjgg5PF.png",RTE News
+http://89.46.123.5:80/stream/61/rtenews.ts
