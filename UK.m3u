@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mOUSWXc.png",BBC One
-http://79.143.16.74:80/stream/1/bbc1fhd.ts
+http://79.143.16.74/cloud//stream/1/bbc1fhd.ts
 http://41.205.93.154/BBCONE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3xmgoK9.png",BBC Two
 http://79.143.16.74:80/stream/4/bbc2fhd.ts
