@@ -15,6 +15,8 @@ https://jmp2.uk/stvp-DE23000015Y
 https://jmp2.uk/stvp-DE340000678
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s3h67hx.png",Deluxe Rap
 https://jmp2.uk/stvp-DEBD3800001QD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Nx2nPp.png",One 1
+https://oneapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qYObfrG.png",Bridge
 http://5.188.159.128:8070/bridgetv/index.m3u8
 https://ru02.plinkspile.su/5283/index.m3u8?token=KUSbsUbF6HxqFZ
@@ -31,11 +33,19 @@ http://iptv.prosto.tv:7000/ch137/video.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyKL8eq.png",Trace UK
 https://jmp2.uk/stvp-GBBD19000026B
+#EXTINF:-1 tvg-logo="https://i.imgur.com/413Mb8j.png",KISS TV
+https://livestream.siliconweb.com/live/kissfm/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VF6EWDC.png",EU Music
+http://stream.mcquack.net/261/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MyKL8eq.png",UA Music
+https://i.imgur.com/J9W1sS3.png
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Ww7CsR.png",1HD Music Television
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YdyFJrl.png",1Mus 
 http://rtmp.one.by:1300
 http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Y2X92m.png",4ever Music
+http://stream.mcquack.net/257/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mXUusgs.png",Totalmusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BhhH70G.png",Totalmusic Dance
@@ -61,8 +71,8 @@ https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P0zsi6I.png",RTL 102.5 Caliente
 https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/413Mb8j.png",KISS TV
-https://livestream.siliconweb.com/live/kissfm/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/upWkfFr.png",¡Viva Latino!
+http://stream.mcquack.net/285/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W3sGgWd.png",MAD TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 #EXTVLCOPT:http-referrer=https://player.castr.com/
@@ -74,6 +84,8 @@ http://185.97.73.187:11000/play/planeta4k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Fyezng.png",360 TuneBox
 https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 http://88.212.7.14/live/test_360_tunebox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bnrKJYe.png",Magic TV
+https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OoJSmoj.png",The Voice TV
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SVG5lkQ.png",Oxygen Music
@@ -91,6 +103,8 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JY4NYzi.png",TOP Radio
 https://takeoff.jetstre.am/?account=TopRadio&file=kijklive&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4JFOMGM.png",Radio Contact
+https://live-radiocontact.digiteka.com/1564284079/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8SFB5Vk.png",Radio 4 You
 https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tucoyzy.png",Radio Norba TV
@@ -135,6 +149,8 @@ http://88.212.7.14/live/test_ocko_star/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5rw9tWy.png",Ocko Black
 https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
 http://88.212.7.14/live/test_ocko_black/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mkfv1sw.png",Black
+http://stream.mcquack.net/283/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G3ld5cc.png",BB BLACK!
 https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EazL8w7.png",Bridge Deluxe
