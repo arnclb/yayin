@@ -33,8 +33,8 @@ http://iptv.prosto.tv:7000/ch137/video.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyKL8eq.png",Trace UK
 https://jmp2.uk/stvp-GBBD19000026B
-#EXTINF:-1 tvg-logo="https://i.imgur.com/413Mb8j.png",KISS TV
-https://livestream.siliconweb.com/live/kissfm/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fiB1VYc.png",Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VF6EWDC.png",EU Music
 http://stream.mcquack.net/261/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyKL8eq.png",UA Music
@@ -60,8 +60,6 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/02cDIBi.png",Number 1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiB1VYc.png",Kiss TV
-https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ccdwsWj.png",Company TV
 https://company.fluid.stream/CompanyTV/livestream/index.m3u8
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
@@ -77,6 +75,8 @@ http://stream.mcquack.net/285/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 #EXTVLCOPT:http-referrer=https://player.castr.com/
 https://stream.castr.com/677fafaf8ca2a4c22070dcd7/live_630666b0fe9911ef8b76c5c61e61d902/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/413Mb8j.png",KISS TV
+https://livestream.siliconweb.com/live/kissfm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J09lNZK.png",Q-Music
 https://stream.qmusic.nl/qmusic/videohls.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dCMIG98.png",Planeta 4K
