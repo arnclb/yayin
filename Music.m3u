@@ -40,6 +40,8 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyKL8eq.png",Trace UK
 https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UByLqb.png",MTV Live
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VF6EWDC.png",EU Music
 http://stream.mcquack.net/261/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J9W1sS3.png",UA Music
