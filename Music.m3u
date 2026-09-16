@@ -28,6 +28,7 @@ https://livetv-app.mylifeisgood.net.ru/channels/bridgehitstvya.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ihZKeQg.png",M6 Music
 #http://145.239.5.177/320/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png",MCM Top
+http://46.32.176.50/mcmtop/index.m3u8
 http://iptv.prosto.tv:7000/ch137/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png",Trace Urban France
 https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
