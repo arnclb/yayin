@@ -29,10 +29,16 @@ https://livetv-app.mylifeisgood.net.ru/channels/bridgehitstvya.m3u8
 #http://145.239.5.177/320/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png",MCM Top
 http://iptv.prosto.tv:7000/ch137/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png",Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png",Trace Urban France
+https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png",Trace Urban International
+https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png",Trace Urban Australia
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png",Trace Urban Africa Franco
+https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyKL8eq.png",Trace UK
-https://jmp2.uk/stvp-GBBD19000026B
+https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VF6EWDC.png",EU Music
 http://stream.mcquack.net/261/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J9W1sS3.png",UA Music
@@ -105,6 +111,16 @@ https://58f12ffd2447a.streamlock.net/KKMulti/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUY2KvX.png",Virgin Radio TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tv60ogG.png",K100
+https://k100streymi.mbl.is/beint/k100/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XwmUbfp.png",Venus Media
+https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rI1wo2l.png",4 Fun
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEWHe1B.png",4 Fun Dance
+#http://213.91.179.28:8000/play/a0bi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YV27Chs.png",Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VCvM9Gd.png",Radio 538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JY4NYzi.png",TOP Radio
@@ -139,14 +155,6 @@ https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
 https://stream.rtl.lu/data/live/tele/rtlradiowebtv/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8cpuaG5.png",Radio Number One
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tv60ogG.png",K100
-https://k100streymi.mbl.is/beint/k100/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rI1wo2l.png",4 Fun
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEWHe1B.png",4 Fun Dance
-#http://213.91.179.28:8000/play/a0bi
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YV27Chs.png",Deejay TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3vbgWWT.png",Hip Hop TV
 https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_HipHopTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DIOHX3l.png",Ocko
@@ -168,7 +176,7 @@ https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifes
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X0UmU3K.png",Trace Gospel
 https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EazL8w7.png",Bridge Deluxe
-http://5.188.159.128:8070/Bridge_TV_Deluxe/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pgCA35z.png",Deluxe Lounge
 https://jmp2.uk/stvp-CHAJ0500413A
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0RzUswR.png",Power Love
@@ -210,9 +218,11 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/c
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KMltQ5N.png",Rebel
 http://88.212.7.14/live/test_rebel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jXfqSel.png",Mezzo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/auNdGeW.png",Mezzo
+https://live-3.otcnet.ru/Mezzo/index.m3u8
 http://45.84.187.172:3001/udp/239.10.10.76:5000
-https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-dash/mezzo.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H9ytKPN.png",Mezzo Live
+http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TpXs1qA.png",Classic Music
 http://stream.mcquack.net/312/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rJ6wXmk.png",Klara
@@ -253,6 +263,8 @@ https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l1EbIAu.png",Stingray Greatest Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l1EbIAu.png",Stingray Euro Hits
+https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ErFzYwn.png",Stingray Hip-Hop/R&B
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lgpIwId.png",Stingray Hit List
