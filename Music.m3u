@@ -30,14 +30,18 @@ https://livetv-app.mylifeisgood.net.ru/channels/bridgehitstvya.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png",MCM Top
 http://46.32.176.50/mcmtop/index.m3u8
 http://iptv.prosto.tv:7000/ch137/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png",Trace Urban France
-https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png",Trace Urban International
 https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png",Trace Urban France
+https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png",Trace Urban Australia
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png",Trace Urban Africa Franco
 https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png",Trace Urban Southern Africa
+https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png",Trace Urban Caribbean and Indian Ocean
+https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyKL8eq.png",Trace UK
 https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3UByLqb.png",MTV Live
