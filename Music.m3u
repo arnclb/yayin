@@ -182,6 +182,10 @@ http://88.212.7.14/live/test_ocko_black/playlist.m3u8
 http://stream.mcquack.net/283/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G3ld5cc.png",BB BLACK!
 https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SHxxi5I.png",Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BDpJSVp.png",Persiana Rap
+https://raphls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X0UmU3K.png",Trace Gospel
 https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EazL8w7.png",Bridge Deluxe
