@@ -252,6 +252,8 @@ https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wu4atsT.png",Stingray DJAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4FjShc.png",ZenLIFE by Stingray
+https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UcprEcq.png",Stingray Holidayscapes
 https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DRlZ9bY.png",Stingray Cityscapes
