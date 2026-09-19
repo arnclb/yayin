@@ -130,6 +130,8 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #http://213.91.179.28:8000/play/a0bi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YV27Chs.png",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2xDVwOh.png",NRJ Belgium
+https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VCvM9Gd.png",Radio 538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JY4NYzi.png",TOP Radio
