@@ -15,8 +15,10 @@ https://jmp2.uk/stvp-DE23000015Y
 https://jmp2.uk/stvp-DE340000678
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s3h67hx.png",Deluxe Rap
 https://jmp2.uk/stvp-DEBD3800001QD
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Nx2nPp.png",One 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Nx2nPp.png",One Music Television 
 https://oneapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NYkMamU.png",One Adria
+https://oneadriaapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qYObfrG.png",Bridge
 http://5.188.159.128:8070/bridgetv/index.m3u8
 https://ru02.plinkspile.su/5283/index.m3u8?token=KUSbsUbF6HxqFZ
