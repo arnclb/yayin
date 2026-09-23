@@ -20,13 +20,11 @@ https://oneapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYkMamU.png",One Adria
 https://oneadriaapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qYObfrG.png",Bridge
+http://stream.mcquack.net/318/index.m3u8
 http://5.188.159.128:8070/bridgetv/index.m3u8
-https://ru02.plinkspile.su/5283/index.m3u8?token=KUSbsUbF6HxqFZ
-https://livetv-app.mylifeisgood.net.ru/channels/bridgetvya.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIW9oR4.png",Bridge Hits
+http://stream.mcquack.net/320/index.m3u8
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
-https://ru02.plinkspile.su/5662/index.m3u8?token=KUSbsUbF6HxqFZ
-https://livetv-app.mylifeisgood.net.ru/channels/bridgehitstvya.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ihZKeQg.png",M6 Music
 #http://145.239.5.177/320/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png",MCM Top
