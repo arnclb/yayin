@@ -78,7 +78,7 @@ https://company.fluid.stream/CompanyTV/livestream/index.m3u8
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QwqM5j6.png",Hit FM
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="hhttps://i.imgur.com/GwATd3Y.png",Mooz Hits
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwATd3Y.png",Mooz Hits
 https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Y2X92m.png",4ever Music
 http://stream.mcquack.net/257/index.m3u8
