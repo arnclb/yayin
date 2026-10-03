@@ -78,6 +78,8 @@ https://company.fluid.stream/CompanyTV/livestream/index.m3u8
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QwqM5j6.png",Hit FM
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tv60ogG.png",K100
+https://k100streymi.mbl.is/beint/k100/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwATd3Y.png",Mooz Hits
 https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Y2X92m.png",4ever Music
@@ -128,8 +130,6 @@ https://58f12ffd2447a.streamlock.net/KKMulti/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUY2KvX.png",Virgin Radio TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tv60ogG.png",K100
-https://k100streymi.mbl.is/beint/k100/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rI1wo2l.png",4 Fun
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEWHe1B.png",4 Fun Dance
