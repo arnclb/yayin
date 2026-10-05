@@ -210,8 +210,8 @@ http://57.128.231.171:8080/229/index.m3u8
 http://88.212.7.14/live/mb_classic/index.m3u8
 https://dash4.antik.sk/live/mb_classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJTQq81.png",Bridge Classic
+http://stream.mcquack.net/272/index.m3u8
 http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
-https://ru02.plinkspile.su/6861/index.m3u8?token=KUSbsUbF6HxqFZ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pyOjdZs.png",Retro Music TV
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vwpOzuz.png",XITE 90's Throwback
