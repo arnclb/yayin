@@ -27,13 +27,11 @@ https://jmp2.uk/stvp-DEBD3800001QD
 http://stream.mcquack.net/318/index.m3u8
 http://5.188.159.128:8070/bridgetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIW9oR4.png",Bridge Hits
-http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
-http://stream.mcquack.net/320/index.m3u8
+#http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ihZKeQg.png",M6 Music
-#http://145.239.5.177/320/mpegts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png",MCM Top
-http://46.32.176.50/mcmtop/index.m3u8
-http://iptv.prosto.tv:7000/ch137/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png",Trace Urban International
 https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png",Trace Urban France
@@ -115,12 +113,16 @@ https://stream.qmusic.nl/qmusic/videohls.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Fyezng.png",360 TuneBox
 https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 http://88.212.7.14/live/test_360_tunebox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9izrr4d.png",Magic TV Romania
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnrKJYe.png",Magic TV Bulgaria
 https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OoJSmoj.png",The Voice TV
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SVG5lkQ.png",Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XwmUbfp.png",Venus Media
+https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ja6c2YZ.png",KISS KISS
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUY2KvX.png",Virgin Radio TV
@@ -210,6 +212,8 @@ https://dash4.antik.sk/live/mb_classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJTQq81.png",Bridge Classic
 http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
 https://ru02.plinkspile.su/6861/index.m3u8?token=KUSbsUbF6HxqFZ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pyOjdZs.png",Retro Music TV
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vwpOzuz.png",XITE 90's Throwback
 https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/98LxoLZ.png",Totalmusic 2000s
