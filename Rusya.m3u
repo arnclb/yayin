@@ -8,15 +8,15 @@ https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
 https://streaming.televizor-24-tochka.ru/live/12.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Tu5lte.png",REN TV
-#EXTVLCOPT:http-referrer="https://televizor24tochka.ru/tv/ren-tv.html"
+#EXTVLCOPT:http-referrer="https://televizor24tochka.ru/"
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 https://streaming.televizor-24-tochka.ru/live/14.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KPXMa3U.png",Pyatyy Kanal
-#EXTVLCOPT:http-referrer="https://televizor24tochka.ru/tv/5-kanal.html"
+#EXTVLCOPT:http-referrer="https://televizor24tochka.ru/"
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 https://streaming.televizor-24-tochka.ru/live/8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XVRwgom.png",Domashniy
-#EXTVLCOPT:http-referrer="https://televizor24tochka.ru/tv/domashnii.html"
+#EXTVLCOPT:http-referrer="https://televizor24tochka.ru/"
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 https://streaming.televizor-24-tochka.ru/live/17.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9r1BKzK.png",NTV
@@ -28,7 +28,7 @@ https://live1.1tvcrimea.ru/milletlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ob5PVNI.png",TV Tsentr
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JLAvq8O.png",ТV-3
-#EXTVLCOPT:http-referrer="https://televizor24tochka.ru/tv/tv-3.html"
+#EXTVLCOPT:http-referrer="https://televizor24tochka.ru/"
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 https://streaming.televizor-24-tochka.ru/live/18.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T4A6rEI.png",TNT
@@ -39,7 +39,7 @@ https://vod.tuva.ru/friday/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nsk8PpB.png",Subbota!
 http://217.114.191.150/Subbota/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilUzAeb.png",STS
-#EXTVLCOPT:http-referrer="https://televizor24tochka.ru/tv/ren-tv.html"
+#EXTVLCOPT:http-referrer="https://televizor24tochka.ru/"
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 https://streaming.skynetconnect.co.za/live/296.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/prnk-tv.png",PRNK TV
@@ -81,7 +81,7 @@ https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YBVZoDd.png",STS Love
 #http://194.143.148.28:8080/CTC_LOVE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j2jDgH9.png",Dom Kino
-#EXTVLCOPT:http-referrer="https://televizor24tochka.ru/tv/dom-kino.html"
+#EXTVLCOPT:http-referrer="https://televizor24tochka.ru/"
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 https://streaming.goodstream.icu/live/44.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4wmnx1W.png",Karusel
