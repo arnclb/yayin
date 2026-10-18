@@ -25,7 +25,7 @@ https://oneapp.b-cdn.net/1080p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qYObfrG.png",Bridge
 http://stream.mcquack.net/318/index.m3u8
-http://5.188.159.128:8070/bridgetv/index.m3u8
+#http://5.188.159.128:8070/bridgetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIW9oR4.png",Bridge Hits
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ihZKeQg.png",M6 Music
@@ -58,7 +58,7 @@ http://stream.mcquack.net/218/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YdyFJrl.png",1Mus 
 http://rtmp.one.by:1300
-http://hz1.teleport.cc/HLS/HD.m3u8
+#http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/70phlSP.png",m2o TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S4b4kE1.png",V2Beat TV
@@ -73,7 +73,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ccdwsWj.png",Company TV
 https://company.fluid.stream/CompanyTV/livestream/index.m3u8
-https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+#https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwATd3Y.png",Mooz Hits
 https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Y2X92m.png",4ever Music
@@ -112,7 +112,7 @@ https://livestream.siliconweb.com/live/kissfm/index.m3u8
 https://stream.qmusic.nl/qmusic/videohls.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Fyezng.png",360 TuneBox
 https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
-http://88.212.7.14/live/test_360_tunebox_medium_atk/playlist.m3u8
+#http://88.212.7.14/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9izrr4d.png",Magic TV Romania
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnrKJYe.png",Magic TV Bulgaria
@@ -176,16 +176,16 @@ https://stream.rtl.lu/data/live/tele/rtlradiowebtv/1080p.m3u8
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DIOHX3l.png",Ocko
 http://88.212.7.14//live/test_ocko/playlist.m3u8
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5rtth6J.png",Ocko Expres
 http://88.212.7.14//live/test_ocko_expres/playlist.m3u8
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/master.m3u8
+#https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yOoPiAa.png",Ocko Star
 https://dash2.antik.sk/live/test_ocko_star/playlist.m3u8
-http://88.212.7.14/live/test_ocko_star/playlist.m3u8
+#http://88.212.7.14/live/test_ocko_star/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5rw9tWy.png",Ocko Black
 https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
-http://88.212.7.14/live/test_ocko_black/playlist.m3u8
+#http://88.212.7.14/live/test_ocko_black/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mkfv1sw.png",Black
 http://stream.mcquack.net/283/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G3ld5cc.png",BB BLACK!
@@ -210,10 +210,10 @@ https://raphls.persiana.live/hls/stream.m3u8
 http://57.128.231.171:8080/229/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJeKucp.png",Music Box Classic
 http://88.212.7.14/live/mb_classic/index.m3u8
-https://dash4.antik.sk/live/mb_classic/index.m3u8
+#https://dash4.antik.sk/live/mb_classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJTQq81.png",Bridge Classic
 http://stream.mcquack.net/272/index.m3u8
-http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
+#http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pyOjdZs.png",Retro Music TV
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vwpOzuz.png",XITE 90's Throwback
@@ -248,7 +248,7 @@ https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tu
 http://88.212.7.14/live/test_rebel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auNdGeW.png",Mezzo
 https://live-3.otcnet.ru/Mezzo/index.m3u8
-http://45.84.187.172:3001/udp/239.10.10.76:5000
+#http://45.84.187.172:3001/udp/239.10.10.76:5000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H9ytKPN.png",Mezzo Live
 http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TpXs1qA.png",Classic Music
