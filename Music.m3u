@@ -22,7 +22,7 @@ https://jmp2.uk/stvp-DEBD3800001QD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Nx2nPp.png",One Music Television
 https://oneapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYkMamU.png",One Adria
-
+https://oneadriaapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qYObfrG.png",Bridge
 http://stream.mcquack.net/318/index.m3u8
 #http://5.188.159.128:8070/bridgetv/index.m3u8
@@ -75,13 +75,11 @@ https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 https://company.fluid.stream/CompanyTV/livestream/index.m3u8
 #https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwATd3Y.png",Mooz Hits
-https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Y2X92m.png",4ever Music
 http://stream.mcquack.net/257/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mXUusgs.png",Totalmusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BhhH70G.png",Totalmusic Dance
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KfFqYQi.png",Radio Ibiza TV
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxuwGRi.png",XITE
@@ -103,7 +101,7 @@ https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W3sGgWd.png",MAD TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
 #EXTVLCOPT:http-referrer=https://player.castr.com/
-https://stream.castr.com/677fafaf8ca2a4c22070dcd7/live_630666b0fe9911ef8b76c5c61e61d902/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13C3CPr.png",Panik TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/413Mb8j.png",KISS TV
