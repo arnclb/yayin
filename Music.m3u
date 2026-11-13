@@ -99,9 +99,7 @@ http://stream.mcquack.net/285/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2qyl2y3.png",XITE Nuevo Latino
 https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W3sGgWd.png",MAD TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34
-#EXTVLCOPT:http-referrer=https://player.castr.com/
-
+https://fa723fc1b171.euc13.playlist.live-video.net/v1/playlist/CpIG4O1a3DGrUc95MnryOua2jiRpxwTeW5RuhnhYt36loX3bl7P1aoTN_vC19EYCRWVg3dcLuI5C5aPnkyT8cMo3plzqLv46bXINF78dlqQ_ab3Ji0vAOm-svpVdNYEsk3nmKXtjwDi7NHrUIQktrGaJOu-RY2oGCPpFYUzIO6MJmH9wK8mYnET0qFdlyXfjkmShkXTKfJE2xaWRFRJbLYuXcFWlSUX55Cmdo3Cc3MEhDByVCqPrlRXkt6Cd77nFpJMmkH050wgvCR9DJbD7CKzPOyUINDKnk6bXtXqdpoygFpAD4PW9_ZZUvQ1GKA4nHxqat20o4a4CW1sxxFUUqCvXqsE0TUO9O3_rMvM0tYFLaVfSF4r7GDzi9f9NHSK07aMPmkB-MrOcIn-P63okXqL_XhWiVMOC6C9tjexLCsCex89MK1hwmBkJMjwNIVOD45_h6yB7CQZ2jBJ7W0bkp-8avvfVHUKwiT7feSxaxjv036StbtpkjiWP-8faYAT4zqxzGbXTdFcx6Fu6620XU0MniChK6J8Y0mGJguBTXX0UUPb-QJPbJoNa3_yj7MmTpPgdtoY9lIY9MHcuksVF6p5gw-26T-crouG3fIw-jzlmKqYqgRdvd4CA_xEJuYqt5m-pAarnDu5RxcvxStXZCtVXr5Xpl1CXYAIvLELSqaQzRImJV6ZLIVSQGIgV5SDTP1rhrKjd9MiQ-V5bYIyiRamgwZ2Zxb-0funSE3QSz_coQdZYp6lRDEaITc6aSBSzryfOCfePkGnmcWwJ6B8VqKVU3MIP3LqLAoHEllF6fEHAyHW9_87eBqDdZv4uTEuv1MQzqGNJQTLceVjJSJJtucBrDhFPzkkUpTWmADpQUiqgFXvdwr_aMxAQcHJA3WWkmJIW7PfRhvn7w0UczHHnRWr_tFwSyal8A_W6pTbczl72pgv4E9uPH7f8DmHeCUe_CtEcRbXwQ1OynKubi6Xgi79RYMvNYapBa8ZiKDoleX7WkSp3ZbSqT5UpyboXz9nJXWinjctG_A3ViJwamwLz7gqgWObiGgzu2oTbAFNgWm4GXesgASoJZXUtd2VzdC0yMMcQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13C3CPr.png",Panik TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/413Mb8j.png",KISS TV
