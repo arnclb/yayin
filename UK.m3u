@@ -29,7 +29,7 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/puBkpGj.png",U&W
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1GKUug.png",U&Eden
-
+https://biptv.s.gy/uandedenuk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cGBJx59.png",U&Drama
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cx5YcAU.png",More4
@@ -104,3 +104,4 @@ https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QeUbMkH.png",Sky News
 https://dash2.antik.sk/live/test_skynews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kjgg5PF.png",RTE News
+https://biptv.s.gy/rtenewsie
