@@ -11,7 +11,7 @@ http://185.19.191.4:8090/ITV2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JuyM2z5.png",ITV3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DYI4IA2.png",ITV4
-
+http://41.180.140.146:4203/bysid/20825
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jS0i8mj.png",Channel 4
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/channel_4/live.livx/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
