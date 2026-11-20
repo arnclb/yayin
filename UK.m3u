@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mOUSWXc.png",BBC One
-http://41.205.93.154/BBCONE/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_one/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3xmgoK9.png",BBC Two
-http://41.205.93.154/BBCTWO/index.m3u8
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_two/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xwPekCF.png",ITV1
 http://41.180.140.146:4203/bysid/20810
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2BpUK0W.png",ITV2
@@ -13,6 +13,7 @@ http://185.19.191.4:8090/ITV2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DYI4IA2.png",ITV4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jS0i8mj.png",Channel 4
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/channel_4/live.livx/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
