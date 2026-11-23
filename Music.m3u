@@ -185,7 +185,7 @@ https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifes
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3vbgWWT.png",Hip Hop TV
 https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_HipHopTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EazL8w7.png",Bridge Deluxe
-http://stream.mcquack.net/92/index.m3u8
+#http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pgCA35z.png",Deluxe Lounge
 https://jmp2.uk/stvp-CHAJ0500413A
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aaqaato.png",XITE Just Chill
@@ -199,7 +199,7 @@ https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BDpJSVp.png",Persiana Rap
 https://raphls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BZIT6SF.png",Music Box 80s
-http://57.128.231.171:8080/229/index.m3u8
+#http://57.128.231.171:8080/229/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJeKucp.png",Music Box Classic
 http://88.212.7.14/live/mb_classic/index.m3u8
 #https://dash4.antik.sk/live/mb_classic/index.m3u8
