@@ -232,9 +232,10 @@ https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tu
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KMltQ5N.png",Rebel
 http://88.212.7.14/live/test_rebel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auNdGeW.png",Mezzo
-
+http://live-3.otcnet.ru/Mezzo/index.m3u8
+http://s7.merlive.am/Mezzo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H9ytKPN.png",Mezzo Live
-
+http://45.84.187.172:3001/udp/239.10.10.76:5000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TpXs1qA.png",Classic Music
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rJ6wXmk.png",Klara
