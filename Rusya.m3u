@@ -1,21 +1,25 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RUSX0rX.png",Pervyy Kanal
-https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
+https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bAyVG0Y.png",Russia-1
 https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VaWlnjZ.png",OTR
+https://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
 #EXTVLCOPT:http-referrer="https://televizor24tochka.ru/"
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
 https://streaming.televizor-24-tochka.ru/live/12.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Tu5lte.png",REN TV
+https://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
 #EXTVLCOPT:http-referrer="https://televizor24tochka.ru/"
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 https://streaming.televizor-24-tochka.ru/live/14.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KPXMa3U.png",Pyatyy Kanal
+https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8
 #EXTVLCOPT:http-referrer="https://televizor24tochka.ru/"
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 https://streaming.televizor-24-tochka.ru/live/8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XVRwgom.png",Domashniy
+https://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
 #EXTVLCOPT:http-referrer="https://televizor24tochka.ru/"
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 https://streaming.televizor-24-tochka.ru/live/17.m3u8
@@ -26,8 +30,10 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hUjLRLy.png",Millet
 https://live1.1tvcrimea.ru/milletlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ob5PVNI.png",TV Tsentr
+https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JLAvq8O.png",ТV-3
+https://flussonic.mkpnet.ru/tv-b9ddf7deb3d25757/video.m3u8
 #EXTVLCOPT:http-referrer="https://televizor24tochka.ru/"
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 https://streaming.televizor-24-tochka.ru/live/18.m3u8
@@ -37,8 +43,10 @@ http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UfmlXxe.png",Pyanitsa!
 https://vod.tuva.ru/friday/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nsk8PpB.png",Subbota!
+https://flussonic.mkpnet.ru/tv-2e0a7cc949958b60/video.m3u8
 http://217.114.191.150/Subbota/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilUzAeb.png",STS
+https://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
 #EXTVLCOPT:http-referrer="https://televizor24tochka.ru/"
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 https://streaming.skynetconnect.co.za/live/296.m3u8
@@ -85,6 +93,7 @@ https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 https://streaming.goodstream.icu/live/44.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4wmnx1W.png",Karusel
+https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
 https://streaming.goodstream.icu/live/232.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BtqrHmz.png",Muz-TV
 http://185.71.81.6:8080/20/index.m3u8
