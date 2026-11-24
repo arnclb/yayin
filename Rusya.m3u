@@ -96,7 +96,7 @@ https://streaming.goodstream.icu/live/44.m3u8
 https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
 https://streaming.goodstream.icu/live/232.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BtqrHmz.png",Muz-TV
-http://185.71.81.6:8080/20/index.m3u8
+https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/avtoradio.png",Авторадио
 http://23.105.238.4/gpm-avtoradio495.aacp
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/dorozhnoe-radio.png",Дорожное Радио
