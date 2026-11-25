@@ -57,6 +57,7 @@ http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Ww7CsR.png",1HD Music Television
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GLc4qrc.png",Europa Plus TV
+#EXTVLCOPT:http-referrer=https://europaplustv.com/
 https://ad-hls-europaplus-ref.cdnvideo.ru/europaplus/eurptv2_site.smil/playlist.m3u8?zoid=srw2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YdyFJrl.png",1Mus Int.
 http://rtmp.one.by:1300
