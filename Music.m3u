@@ -28,11 +28,11 @@ https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIW9oR4.png",Bridge Hits
 http://178.134.1.158:8081/BRIDGEHIT/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JTzRqqY.png",Bridge Dance
-https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff09f290affe00013a80a9/720p.m3u8
+https://.cdnvideo.ru/hls/live/6aff09f290affe00013a80a9/720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XqP0GPC.png",Bridge R&B
-https://bridgemedia-hls.cdnvideo.ru/hls/live/6affedb990affe00013a80b2/720p.m3u8
+#https://bridgemedia-hls.cdnvideo.ru/hls/live/6affedb990affe00013a80b2/720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xlVNJBH.png",Bridge Rap
-https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed9990affe00013a80b1/720p.m3u8
+#https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed9990affe00013a80b1/720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ihZKeQg.png",M6 Music
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8
 https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8
@@ -206,7 +206,7 @@ https://jmp2.uk/stvp-CHAJ0500413A
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aaqaato.png",XITE Just Chill
 https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2ugMFn8.png",Bridge Soul
-https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed7590affe00013a80b0/720p.m3u8
+#https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed7590affe00013a80b0/720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0RzUswR.png",Power Love
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dCMIG98.png",Planeta 4K
