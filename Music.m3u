@@ -79,18 +79,10 @@ https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ccdwsWj.png",Company TV
 https://company.fluid.stream/CompanyTV/livestream/index.m3u8
 #https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uaW0PSv.png",Vantage Music
-https://cdn-non-eu.lulzy.eu/vmusic_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aFg06De.png",Vantage Dance
-https://cdn-non-eu.lulzy.eu/vdance_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/krKWaSv.png",Vantage Base
-https://cdn-non-eu.lulzy.eu/vbase_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwATd3Y.png",Mooz Hits
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Y2X92m.png",4ever Music
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mXUusgs.png",Totalmusic
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KfFqYQi.png",Radio Ibiza TV
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxuwGRi.png",XITE
@@ -115,8 +107,6 @@ https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://livestream.siliconweb.com/live/kissfm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13C3CPr.png",Panik TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V3MTfyc.png",City Eden Sirtaki TV
-https://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J09lNZK.png",Q-Music
 https://stream.qmusic.nl/qmusic/videohls.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Fyezng.png",360 TuneBox
@@ -138,7 +128,7 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rI1wo2l.png",4 Fun
 #https://stream.4fun.tv:8888/hd/4fun_hd_high.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEWHe1B.png",4 Fun Dance
-http://92.114.85.87:8018/play/a00k/index.m3u8
+#http://92.114.85.87:8018/play/a00k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YV27Chs.png",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mohxgzu.png",Persiana Beats
@@ -201,6 +191,10 @@ https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
 https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3vbgWWT.png",Hip Hop TV
 https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_HipHopTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dCMIG98.png",Planeta 4K
+http://185.97.73.187:11000/play/planeta4k/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mohxgzu.png",Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EazL8w7.png",Bridge Deluxe
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pgCA35z.png",Deluxe Lounge
@@ -211,17 +205,13 @@ https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
 #https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed7590affe00013a80b0/720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0RzUswR.png",Power Love
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dCMIG98.png",Planeta 4K
-http://185.97.73.187:11000/play/planeta4k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mohxgzu.png",Persiana Music
-https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/slwbux7.png",Number 1 Aşk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BZIT6SF.png",Music Box 80s
 #http://57.128.231.171:8080/229/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJeKucp.png",Music Box Classic
 http://88.212.7.14/live/mb_classic/index.m3u8
 #https://dash4.antik.sk/live/mb_classic/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9ScCaNW.png",Vantage Classic
-https://cdn-non-eu.lulzy.eu/vclassic_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJTQq81.png",Bridge Classic
 
 #http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
@@ -229,6 +219,8 @@ https://cdn-non-eu.lulzy.eu/vclassic_720/index.m3u8
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vwpOzuz.png",XITE 90's Throwback
 https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mXUusgs.png",Totalmusic
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/98LxoLZ.png",Totalmusic 2000s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FQPn8N6.png",Totalmusic 80s
@@ -237,8 +229,6 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/mas
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FSvoyqY.png",Number 1 Rap
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/slwbux7.png",Number 1 Aşk
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9OPoXQG.png",PowerTürk TV
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/driabBO.png",PowerTürk Akustik
@@ -247,8 +237,6 @@ https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MHuwct2.png",Bridge Rock
 http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TdDSNkK.png",Vantage Rock
-https://cdn-non-eu.lulzy.eu/vrock_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uIIUIuN.png",XITE Rock x Metal
 https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PcRruuC.png",Radio Capital TV
